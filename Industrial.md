@@ -10,6 +10,8 @@
 
 25 de Marzo -> Redacción informe módulo 1 con plantilla de la cátedra  [demo](https://www.overleaf.com/read/gtcnwjpqfgzx#0ea472) - Inicio del módulo 2
 
+1 de Abril - Algoritmos  -  Grupo anfitrion Grupo Alfa
+
 
 
 ## Listado
