@@ -28,7 +28,7 @@ Mediación de Materiales TyHM 2026
 | KPI Rojos |  | Villalba	Ezequiel Del Popolo	Francisco Smovir	Pablo .	Matias Salinas  |
 | Las valientes  |  | .	Paulina Maselli -	Rosario .	Angelica Collazo  	Juana .	Angelina |
 | Les Chats |  | jiji	Andrés , Buttazzoni Gonzalez 	Juan Francisco , 	Lucas Manuel Baena , mercier	chloé , -	Francisco Avallone |
-| Los Inductores |  | A	Franco Manassero, Leo Crimi 	Caetana Electra , Ludueña 	Alondra Pilar ,.	Joaquin Bressan ,Don	Guillermo Ignacio ,.	Ignacio March |
+| Los Inductores | <http://github.com/Caetana01/MODULO-1> | A	Franco Manassero, Leo Crimi 	Caetana Electra , Ludueña 	Alondra Pilar ,.	Joaquin Bressan ,Don	Guillermo Ignacio |
 | Los Siraníes  |  | .	Ignacio March, -	Renzo, ega	Lucas,	Pedro Farjo ,Silioni	Luca, .	Enzo carbone  |
 | Los Palmera | https://github.com/JuanMartinFunes/Entrega_Modulo_1 | * Luciano Figuera, * Lisandro Cerdán , * Alejo Daniel, Juan Mateo Hidalgo, Manuel Robi , Matteo Pratellesi Diaz, Juan Martín Funes , Juan Cruz Solchaga , * Bautista Calderón  |
 | Los Técnicos | <htttp://github.com/cami272fs-sys> | Camila, Maite Julieta, Ignacio Coronado ,  Franca Bielsa , Rocío Alarcón|, 
