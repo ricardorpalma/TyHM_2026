@@ -23,7 +23,7 @@ Mediación de Materiales TyHM 2026
 | Dybala a Boca |  | Santiago Joaquín Peña, Sebastian Ezequiel ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  |
 | Error 404 |  | Lisandro Ezequiel Martin , Tadeo Gabriel, Josefina Perez  |
 | Gordillos Siuu |  | .	Juan González Ignacio ,	Pilar Zuñiga , Euillades	Santiago , Huenchuguala	Joaquin ,.	Celeste |
-| JIBS |  |.	Marcia Benegas ,.	Gonzalez Gonzalo, Egea	Sebastián, -	Simonovich Jael Gisel ,  	Juan Ignacio Ristagno   |
+| JIGSA | https://github.com/segea86/TyHM_Modulo1 |.	Marcia Benegas ,.	Gonzalez Gonzalo, Egea	Sebastián, -	Simonovich Jael Gisel ,  	Juan Ignacio Ristagno   |
 | Joulie Faraday |  | Mauricio Jesús Mansur Emanuel Mattia Malnis  Valentino Giampietri  Ana Clara Godoy |
 | KPI Rojos |  | Villalba	Ezequiel Del Popolo	Francisco Smovir	Pablo .	Matias Salinas  |
 | Las valientes  |  | .	Paulina Maselli -	Rosario .	Angelica Collazo  	Juana .	Angelina |
