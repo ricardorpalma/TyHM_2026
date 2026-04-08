@@ -22,7 +22,17 @@
   - Designar un grupo de alumnos para asistir a la introducción a la redación de reportes.
   - Introducción a metodologías ágiles de gestión de proyectos SCRUM
   - Entrgea primar reporte Sprint 1
-
+ 
+ * 8 de Abril
+Revisión para próximo sprint
+Antenas
+Nano VNA
+1090 MHz
+   **Seguimiento de ARTEMIS**
+         Frec. 22.116 MHz
+         Modulación QUAM
+   <hr>
+   
     
 
 
