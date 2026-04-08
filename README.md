@@ -15,7 +15,7 @@ Mediación de Materiales TyHM 2026
 | Actitud positiva :) |  | Delfina Gómez Ganam , Emiliano Ochoa, Bietti Tomás, Gianella Sfrede Genaro ,Ignacio Perez  |
 | Aleph | <https://github.com/veratomas/entrega-modulo-1> | Tomás Santiago ,Tomás Francisco Cabrera Sendra, Juan Marcos Aguirre, Luciano Correa Pol, Enzo Scala  |
 | Alfa | <http://github.com/RubenCruz0703/modulo1> | Matías Rosa ,Yesica Elizabeth , Simón Manuel ,Chiara Palmero,Ruben Exequiel Cruz |    
-| Avogadro toast | <https://github.com/lucia-salamone/Entrega_Modulo_1> | Pilar Mujica, Lucia Salamone ,Rocio Martinez, * Valentina?  , Sara Kemelmajer, Caterina DiNnocenzo, Lucas Segura |
+| Avogadro toast | <https://github.com/lucia-salamone/Entrega_Modulo_1> | Pilar Mujica, Lucia Salamone ,Rocio Martinez, * Valentina?  , Sara Kemelmajer, Caterina DiNnocenzo, Lucas Segura, Matias Rosa |
 | Budín de banana | <https://github.com/Mili5555/Entrega1> | Dominguez Galdame	Lucía Constanza, Bonita	Milagros Farina,.	María Romero ,Valle 	Julieta , Cavalli Hilario |
 | Calculito |  | Guillermo Damián ,Fabricio, Tiago Sánchez, Mateo Ambrogetti ,Victoria Bautista   |
 | Clasica y moderna | https://github.com/santiago-perezvicchi10/Entrega> | María Guadalupe ,Sfragara	Luciano ,Zoia	Julián ,.	Joaquín , .	Santiago Perez Vicchi  |
