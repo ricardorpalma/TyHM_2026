@@ -14,7 +14,7 @@
 
 8 de Abril Algoritmos Gaus Fibonacci TicToc <http://themys.sid.uncu.edu.ar/rpalma/TyHM/Programacion_R/>
 
-Grupos anfitriones: 
+**Grupos anfitriones:** 🚩 Consejo de Sabios - 🏳️‍🟩 Error 404 -  🇸🇴 Dibala a Boca
 
 ## Listado
 
