@@ -31,7 +31,7 @@ Mediación de Materiales TyHM 2026
 | Los Inductores | <http://github.com/Caetana01/MODULO-1> | A	Franco Manassero, Leo Crimi 	Caetana Electra , Ludueña 	Alondra Pilar ,.	Joaquin Bressan ,Don	Guillermo Ignacio |
 | Los Iraníes  | <http://github.com/pedro-farjo/Entrga_Modulo1> | 	Ignacio March, 	Renzo Martini, Vega	Lucas,	Pedro Farjo ,Silioni	Luca, 	Enzo carbone  |
 | Los Palmeras | <https://github.com/baucalderon-2026/ENTREGA> | * Luciano Figuera, * Lisandro Cerdán , * Alejo De Miguel , Bautista Calderón, Nathan Graff, Facundo Moreschi |
-| Los Técnicos | <htttp://github.com/cami2722s-sys/Modulo_1> | Camila, Maite Julieta, Ignacio Coronado ,  Franca Bielsa , Rocío Alarcón|, 
+| Los Técnicos | <https://github.com/cami2722s-sys/Modulo_1> | Camila, Maite Julieta, Ignacio Coronado ,  Franca Bielsa , Rocío Alarcón|, 
 | Los $\pi$ |  | Tiago Friscolanti, Santiago Jara, Gerardo , Facundo Romero |
 | Mate Amargo  | <https://github.com/allaymaria/Entrega-Modulo-1> | Emiliano Daniel Jaime Ayosa , María Mashael Allay Alfonso , Estefania Funes Brown , Nancy Noemi Sara Fajardo, Zaragoza Matias |
 | Modern Tech | http://github.com/sofi-blas/Entrega-Modulo1 | Eugenio Alastra ,Sofía Blas Delpozzi, Rocio Anabel, Bianca Nicole Lombardo, Camila Sepulveda, Luciana Gallina|
