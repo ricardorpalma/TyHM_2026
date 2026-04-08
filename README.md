@@ -22,7 +22,7 @@ Mediación de Materiales TyHM 2026
 | Concejo de sabios | <https://github.com/joaquinatorr/entrega> |	Pedro Simón,	Joaquín Spongia, Facundo Perea, García 	Leslie Rocío 	Joaquín Martinez |
 | Dybala a Boca |  | Santiago Joaquín Peña, Sebastian Ezequiel ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  |
 | Error 404 |  | Lisandro Ezequiel Martin , Tadeo Gabriel, Josefina Perez  |
-| Gordillos Siuu |  | .	Juan González Ignacio ,	Pilar Zuñiga , Euillades	Santiago , Huenchuguala	Joaquin ,.	Celeste |
+| Gorditos Siuu | <https://github.com/ignaciojuann07/Grupo-tecnicas-> | 	Juan González Ignacio ,	Pilar Zuñiga , Euillades	Santiago , Huenchuguala	Joaquin ,.	Celeste Herzóg |
 | JIBS |  |.	Marcia Benegas ,.	Gonzalez Gonzalo, Egea	Sebastián, -	Simonovich Jael Gisel ,  	Juan Ignacio Ristagno   |
 | Joulie Faraday |  | Mauricio Jesús Mansur Emanuel Mattia Malnis  Valentino Giampietri  Ana Clara Godoy |
 | KPI Rojos |  | Villalba	Ezequiel Del Popolo	Francisco Smovir	Pablo .	Matias Salinas  |
