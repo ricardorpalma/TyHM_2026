@@ -24,13 +24,20 @@
   - Entrgea primar reporte Sprint 1
  
  * 8 de Abril
+ * 
 Revisión para próximo sprint
 Antenas
+
 Nano VNA
+
 1090 MHz
+
    **Seguimiento de ARTEMIS**
+         
          Frec. 22.116 MHz
+         
          Modulación QUAM
+  
    <hr>
    
     
