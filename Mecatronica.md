@@ -40,6 +40,14 @@ Nano VNA
          Modulación QUAM
   
    <hr>
+   * Dipolo
+   * Paragüa 
+   * Moxon
+   * Cinta de Metro 
+   * Yagui
+   * Random Wire
+   * Enf fed hal wire.
+
    
     
 
