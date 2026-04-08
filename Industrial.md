@@ -12,7 +12,9 @@
 
 1 de Abril - Algoritmos  -  Grupo anfitrion Grupo Alfa
 
+8 de Abril Algoritmos Gaus Fibonacci TicToc <http://themys.sid.uncu.edu.ar/rpalma/TyHM/Programacion_R/>
 
+Grupos anfitriones: 
 
 ## Listado
 
