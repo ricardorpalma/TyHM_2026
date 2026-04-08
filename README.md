@@ -30,7 +30,7 @@ Mediación de Materiales TyHM 2026
 | Les Chats |  | jiji	Andrés , Buttazzoni Gonzalez 	Juan Francisco , 	Lucas Manuel Baena , mercier	chloé , -	Francisco Avallone |
 | Los Inductores | <http://github.com/Caetana01/MODULO-1> | A	Franco Manassero, Leo Crimi 	Caetana Electra , Ludueña 	Alondra Pilar ,.	Joaquin Bressan ,Don	Guillermo Ignacio |
 | Los Siraníes  |  | .	Ignacio March, -	Renzo, ega	Lucas,	Pedro Farjo ,Silioni	Luca, .	Enzo carbone  |
-| Los Palmera | https://github.com/JuanMartinFunes/Entrega_Modulo_1 | * Luciano Figuera, * Lisandro Cerdán , * Alejo Daniel, Juan Mateo Hidalgo, Manuel Robi , Matteo Pratellesi Diaz, Juan Martín Funes , Juan Cruz Solchaga , * Bautista Calderón  |
+| Los Palmeras | <https://github.com/baucalderon-2026/ENTREGA> | * Luciano Figuera, * Lisandro Cerdán , * Alejo De Miguel , Bautista Calderón, Nathan Graff, Facundo Moreschi |
 | Los Técnicos | <htttp://github.com/cami272fs-sys> | Camila, Maite Julieta, Ignacio Coronado ,  Franca Bielsa , Rocío Alarcón|, 
 | Los $\pi$ |  | Tiago Friscolanti, Santiago Jara, Gerardo , Facundo Romero |
 | Mate Amargo  |  | Emiliano Daniel Jaime Ayosa , María Mashael Allay Alfonso , Estefania Funes Brown , Nancy Noemi Sara Fajardo |
@@ -42,4 +42,4 @@ Mediación de Materiales TyHM 2026
 | $\lambda$|  | .	Juan Martín, Notti	Joaquin , Peiro	Francisco, .	Nicolas Sarmiento , .	Raimundo Glasner |
 
 
-
+Juan Mateo Hidalgo, Manuel Robi , Matteo Pratellesi Diaz, Juan Martín Funes , Juan Cruz Solchaga , *   |
