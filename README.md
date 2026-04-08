@@ -23,7 +23,7 @@ Mediación de Materiales TyHM 2026
 | Dybala a Boca | <https://github.com/Santiago-Pena2003/Entrega-Modulo-1> | Santiago Joaquín Peña, Sebastian Dimarco ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  |
 | Error 404 |  | Lisandro Ezequiel Martin , Tadeo Gabriel, Josefina Perez  |
 | Gorditos Siuu | <https://github.com/ignaciojuann07/Grupo-tecnicas-> | 	Juan González Ignacio ,	Pilar Zuñiga , Euillades	Santiago , Huenchuguala	Joaquin ,.	Celeste Herzóg |
-| JIBS |  |.	Marcia Benegas ,.	Gonzalez Gonzalo, Egea	Sebastián, -	Simonovich Jael Gisel ,  	Juan Ignacio Ristagno   |
+| JIGSA | <https://github.com/segea86/TyHM_Modulo1> |.	Marcia Benegas ,.	Gonzalez Gonzalo, Egea	Sebastián, -	Simonovich Jael Gisel ,  	Juan Ignacio Ristagno   |
 | Joulie Faraday | <https://github.com/emanuel-gomez-rastrilla/entregamodulo_1>  | Mauricio Jesús Mansur, Emanuel Gomez, Mattia Malnis  Valentino Giampietri,  Ana Clara Godoy |
 | KPI Rojos | <http://github.com/fdelpopolos/Entrega> | Villalba	Ezequiel Del Popolo	Francisco Smovir	Pablo .	Matias Salinas ,Nicotra Amparo  |
 | Las valientes  |  | .	Paulina Maselli -	Rosario .	Angelica Collazo  	Juana .	Angelina, Clarisse Raingeard |
