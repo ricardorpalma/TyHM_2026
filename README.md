@@ -10,7 +10,7 @@ Mediación de Materiales TyHM 2026
 
 ## Grupos de Trabajo
 
-|Grupo de Trabajo | Github de entrega  | Rúbricas |
+|Grupo de Trabajo | Github de entrega  | Rúbricas | Aprobado |
 |-----------------|------------------------------------------------------------|-------------|----|
 | Actitud positiva :) |  | Delfina Gómez Ganam , Emiliano Ochoa, Bietti Tomás, Gianella Sfrede Genaro ,Ignacio Perez  |  |
 | Aleph | <https://github.com/veratomas/entrega-modulo-1> | Tomás Santiago ,Tomás Francisco Cabrera Sendra, Juan Marcos Aguirre, Luciano Correa Pol, Enzo Scala  | M1 | 
