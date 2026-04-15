@@ -40,6 +40,7 @@ Nano VNA
          Modulación QUAM
   
    <hr>
+   
    * Dipolo
    * Paragüa 
    * Moxon
@@ -47,6 +48,7 @@ Nano VNA
    * Yagui
    * Random Wire
    * End fed half wave.
+     
 <hr>
 
 * 15 de Abril
@@ -54,6 +56,7 @@ Nano VNA
 * Batido de ondas  <http://themys.sid.uncu.edu.ar/rpalma/Mecatronica/Batido%20de%20Ondas.zip>
 * Batido de ondas en SDR con down converter
 * Seguimiento de aeronaves con <https://www-rtl--sdr-com.translate.goog/a-detailed-guide-to-setting-up-rtl1090-for-ads-b-decoding/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc>
+* Simulaciones en mmana-gal
 * Presentación de 1er SPRINT
 
   
