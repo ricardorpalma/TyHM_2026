@@ -14,7 +14,24 @@
 
 8 de Abril Algoritmos Gaus Fibonacci TicToc <http://themys.sid.uncu.edu.ar/rpalma/TyHM/Programacion_R/>
 
-**Grupos anfitriones:** 🚩 Consejo de Sabios - 🏳️‍🟩 Error 404 -  🇸🇴 Dibala a Boca
+Grupos anfitriones: 🚩 Consejo de Sabios - 🏳️‍🟩 Error 404 -  🇸🇴 Dibala a Boca
+
+<hr> 
+
+**15 de Abril** Benchmarking de Algoritmos y Medioides (kmeans)
+
+Consigna: Con los grupos anfitriones realizar los ejercicios restantes del ejemplo <http://themys.sid.uncu.edu.ar/rpalma/TyHM/Programacion_R/Elementos-de-Programaci%c3%b3n.pdf>
+
+*Investigar con los gráficos de violin (de la biblioteca micro como se comporta una computadora usando métodos de ordenamiento "burbuja" y compararlo con el método **sort** nativo de R .
+
+Medir la performance del método kmean de agrupamiento. Realizar una inroducción teórica antes de medir con gráfico de violin.
+
+Realizar una presentación en R de todo el contenido del módulo 2 - evaluación a las 20
+
+Los grupos anfitriones serán los responsables de organizar la lista de expositores y verificar que expongan en 10 minutos.
+
+**Grupos anfitriones:** 🚩 Error 404 - 🏳️‍🟩 Gorditos Siuu -  🇸🇴 JIGSA - 🏳️‍🟩 Joulie Faraday
+
 
 ## Listado
 
