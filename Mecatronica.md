@@ -56,6 +56,8 @@ Nano VNA
 * Batido de ondas  <http://themys.sid.uncu.edu.ar/rpalma/Mecatronica/Batido%20de%20Ondas.zip>
 * Batido de ondas en SDR con down converter
 * Seguimiento de aeronaves con <https://www-rtl--sdr-com.translate.goog/a-detailed-guide-to-setting-up-rtl1090-for-ads-b-decoding/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc>
+* Descarga de software <https://www.jetvision.de/manuals/rtl1090.zip>
+* Monitoreo de frecuencas 7.050 MHz a 7.150 MHz  y 28.400 MHz a 28500 MHz antena de hilo largo en el mástil
 * Simulaciones en mmana-gal
 * Presentación de 1er SPRINT
 
