@@ -47,7 +47,7 @@ Nano VNA
    * Cinta de Metro 
    * Yagui
    * Random Wire
-   * End fed half wave.
+   * End feed half wave. End feed random wire
      
 <hr>
 
@@ -63,7 +63,14 @@ Nano VNA
 
   
      
-    
+**22 de Abril**
+
+* Redacción informe recepcion con antena de hilo
+* Finalizar puesta a punto SDR en PC Windows Sustituir RTLSDR Sharp por RTLSDR++ (plus plus)
+* Simulación en MMana-Gal de las antenas
+* Antena Magnetic Loop
+* Investigación sobre Xnec2c para simular antenas (sustituto de Mmana-Gal
+  
 
 
 ## Listado de alumnos
