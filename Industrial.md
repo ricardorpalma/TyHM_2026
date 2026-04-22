@@ -4,17 +4,30 @@
 
 ## Actividades
 
-4 de Marzo ->  markdown creación de paginas de github individual y link a página del grupo.
+4 de Marzo ->  markdown creación de paginas de github individual y link a página del grupo. **Módulo 1**
 
 11 de Marzo -> colab github tablas, incrustar imágenes, html w3c, construcción de landing page
 
 25 de Marzo -> Redacción informe módulo 1 con plantilla de la cátedra  [demo](https://www.overleaf.com/read/gtcnwjpqfgzx#0ea472) - Inicio del módulo 2
 
-1 de Abril - Algoritmos  -  Grupo anfitrion Grupo Alfa
+1 de Abril - Algoritmos  -  Grupo anfitrion Grupo Alfa **Módulo 2**
 
 8 de Abril Algoritmos Gaus Fibonacci TicToc <http://themys.sid.uncu.edu.ar/rpalma/TyHM/Programacion_R/>
 
+15 de Abril eficiencia en algoritmos graficos violin presentación de los grupos
+
 Grupos anfitriones: 🚩 Consejo de Sabios - 🏳️‍🟩 Error 404 -  🇸🇴 Dibala a Boca
+
+
+**22 de Abril** -> Simulación por Eventos Discretos **Módulo 3**
+
+  * Finalización de la evaluación
+
+  * Descargas <https://nube.ingenieria.uncuyo.edu.ar/f/17250434>
+
+
+Grupos anfitriones: 🚩 Consejo de Sabios - 🏳️‍🟩 Error 404 -  🇸🇴 Dibala a Boca
+
 
 <hr> 
 
@@ -188,3 +201,76 @@ Los grupos anfitriones serán los responsables de organizar la lista de exposito
 | Allamand | Francisco | franallamand05@gmail.com | 2614688567 |
 | Egea | Sebastián | segea86@gmail.com | 2616416126 |
 | Ristagno | Juan Ignacio | ignacio.ristagno@gmail.com | 2613649714|
+
+
+
+## Calificaciones Presentación Módulo 2
+
+## 1er Grupo
+Dybala a Boca
+1.8 penitencia de Newton 
+Calificación: 9
+
+## 2do Grupo
+Les chats
+Definición matemática recurrente 1.6
+Calificación: 8
+
+## 3er Grupo
+Budín de Banana 🥈
+1.4 
+Calificación: 10
+
+## 4to Grupo
+KPI rojo
+tic toc
+
+## 5to Grupo
+Los inductores
+Ordenamiento de un vector con el método de burbuja
+Calificación: 10
+
+## 6to Grupo
+Los Pi
+Generar un vector secuencia
+
+## 7mo Grupo
+Tecnica2
+Vector secuencia
+
+## 8vo Grupo
+Mate amargo
+Definición matemática recurrente 1.6
+
+## 9no Grupo
+Calculitos
+La penitencia de Newton
+
+## 10mo Grupo
+Alpha 
+Fibonacci
+
+## 11vo Grupo
+Moder teach
+1.8 penitencia de Newton
+
+##12vo Grupo
+ZZZ
+Ordenamiento por metodo burbuja
+
+##13vo Grupo
+Los tecnicos
+Definicion matematica y recurrente 1.6
+
+## 14vo Grupo
+Aleph
+Fibonacci
+
+## 15vo Grupo
+Pipu
+Fibonacci
+
+## 16vo Grupo
+Avogradro Toast
+Vector secuencia
+
