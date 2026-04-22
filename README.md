@@ -39,7 +39,7 @@ Mediación de Materiales TyHM 2026
 | Sinergia 5S |  | Scaccia 	Octavio, Benedetti	Gino , .	Rocío Andre , 	Sol Florindo ,Pereyra 	Martina  |    |
 | Tecnica2  | <https://github.com/JuanALuna/Entrega> | * Juan Manuel, * Ariana Galli, Leandro Olguin , Juan Luna , Luciana Noriega | M1 |
 | ZZZ | https://github.com/bautistapons/entregass | Rocio Gomez, Maria Celina Lopez, Maia Ortiz, Bautista Pons |  M1 |
-| $\lambda$|  | .	Juan Martín, Notti	Joaquin , Peiro	Francisco, .	Nicolas Sarmiento , .	Raimundo Glasner |   |
+| $\lambda$| <https://github.com/Nicolas-Sarmiento_lugones/entregas> | .	Juan Martín, Notti	Joaquin , Peiro	Francisco, .	Nicolas Sarmiento , .	Raimundo Glasner |   |
 |Los Pookies | <https://github.com/franallamand/Entrega_Modulo_1> | Facundo Dip, Pedro Elizalde, Mateo Notti, Francisco Allamand | M1 |
 
 
