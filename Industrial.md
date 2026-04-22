@@ -24,6 +24,7 @@ Grupos anfitriones: 🚩 Consejo de Sabios - 🏳️‍🟩 Error 404 -  🇸�
   * Finalización de la evaluación
 
   * Descargas <https://nube.ingenieria.uncuyo.edu.ar/f/17250434>
+  * Descarga de CS Económicas <https://themys.sid.uncu.edu.ar/rpalma/Industrial/R-CRAN%20TyHM/DES/>
 
 
 Grupos anfitriones: 🚩 Consejo de Sabios - 🏳️‍🟩 Error 404 -  🇸🇴 Dibala a Boca
