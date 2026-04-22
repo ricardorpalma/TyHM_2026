@@ -12,7 +12,7 @@ Mediación de Materiales TyHM 2026
 
 |Grupo de Trabajo | Github de entrega  | Rúbricas | Aprobado |
 |-----------------|------------------------------------------------------------|-------------|----|
-| Actitud positiva :) |  | Delfina Gómez Ganam , Emiliano Ochoa, Bietti Tomás, Gianella Sfrede Genaro ,Ignacio Perez  |  |
+| Actitud positiva :) | <https://github.com/Luciano-Migoni/Entregas> | Albarracin Gianella Sfrede Genaro ,Ignacio Perez , Luciano Migoni |  |
 | Aleph | <https://github.com/veratomas/entrega-modulo-1> | Tomás Santiago ,Tomás Francisco Cabrera Sendra, Juan Marcos Aguirre, Luciano Correa Pol, Enzo Scala  | M1 | 
 | Alfa | <http://github.com/RubenCruz0703/modulo1> | Matías Rosa ,Yesica Elizabeth , Simón Manuel ,Chiara Palmero,Ruben Exequiel Cruz |  M1 |  
 | Avogadro toast | <https://github.com/lucia-salamone/Entrega_Modulo_1> | Pilar Mujica, Lucia Salamone ,Rocio Martinez, * Valentina?  , Sara Kemelmajer, Caterina DiNnocenzo, Lucas Segura, Matias Rosa | M1 |
@@ -45,7 +45,9 @@ Mediación de Materiales TyHM 2026
 
 Sin grupo 
 
-Juan Mateo Hidalgo, Manuel Robi , Matteo Pratellesi Diaz, Juan Martín Funes , Juan Cruz Solchaga , *   |
+Juan Mateo Hidalgo, Manuel Robi , Matteo Pratellesi Diaz, Juan Martín Funes , Juan Cruz Solchaga , *   
+
+Delfina Gómez Ganam , Emiliano Ochoa, Bietti Tomás,|
 
 
 Juan Mateo Hidalgo, Manuel Robi , Matteo Pratellesi Diaz, Juan Martín Funes , Juan Cruz Solchaga
