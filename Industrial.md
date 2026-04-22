@@ -44,7 +44,12 @@ Realizar una presentación en R de todo el contenido del módulo 2 - evaluación
 Los grupos anfitriones serán los responsables de organizar la lista de expositores y verificar que expongan en 10 minutos.
 
 
+**22 de Abril**
+
+
 Módulo 3 **Simulación por Eventos Discretos** 
+
+<https://nube.ingenieria.uncuyo.edu.ar/f/17250434>
 
 **Grupos anfitriones:** 🚩 KPI Rojos - 🏳️‍🟩 Las Valiente -  🇸🇴 Les Chats - 🏳️‍🟩 Los Inductores
 
