@@ -21,7 +21,7 @@ Mediación de Materiales TyHM 2026
 | Clasica y moderna | https://github.com/santiago-perezvicchi10/Entrega> | María Guadalupe ,Sfragara	Luciano ,Zoia	Julián ,.	Joaquín , .	Santiago Perez Vicchi  | M1 |
 | Concejo de sabios | <https://github.com/joaquinatorr/entrega> |	Pedro Simón,	Joaquín Spongia, Facundo Perea, García 	Leslie Rocío 	Joaquín Martinez | M1 |
 | Dybala a Boca | <https://github.com/Santiago-Pena2003/Entrega-Modulo-1> | Santiago Joaquín Peña, Sebastian Dimarco ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  | M1 | 
-| Error 404 |  <https://github.com/ezequiel-choqueaguirre/Error-404> | Lisandro Ezequiel Martin , Tadeo Gabriel, Josefina Perez  | M1  |
+| Error 404 |  <https://github.com/ezequiel-choqueaguirre/Error-404> | Lisandro Ezequiel Martin , Tadeo Gabriel, Josefina Perez, Blanco Nicolás, Marco Boero  | M1  |
 | Gorditos Siuu | <https://github.com/ignaciojuann07/Grupo-tecnicas-> | 	Juan González Ignacio ,	Pilar Zuñiga , Euillades	Santiago , Huenchuguala	Joaquin ,.	Celeste Herzóg | M1 | 
 | JIGSA | <https://github.com/segea86/TyHM_Modulo1> |.	Marcia Benegas ,.	Gonzalez Gonzalo, Egea	Sebastián, -	Simonovich Jael Gisel ,  	Juan Ignacio Ristagno   | M1 |
 | Joulie Faraday | <https://github.com/emanuel-gomez-rastrilla/entregamodulo_1>  | Mauricio Jesús Mansur, Emanuel Gomez, Mattia Malnis  Valentino Giampietri,  Ana Clara Godoy | M1 |
