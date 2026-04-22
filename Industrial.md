@@ -266,11 +266,11 @@ Fibonacci
 Moder teach
 1.8 penitencia de Newton
 
-##12vo Grupo
+## 12vo Grupo
 ZZZ
 Ordenamiento por metodo burbuja
 
-##13vo Grupo
+## 13vo Grupo
 Los tecnicos
 Definicion matematica y recurrente 1.6
 
@@ -288,5 +288,9 @@ Vector secuencia
 
 ## 17vo Grupo 
 GIGSA  
+
+## Siergia 5S
+
+
 
 Calificación 10  🥇
