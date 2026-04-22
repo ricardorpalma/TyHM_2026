@@ -43,7 +43,11 @@ Realizar una presentación en R de todo el contenido del módulo 2 - evaluación
 
 Los grupos anfitriones serán los responsables de organizar la lista de expositores y verificar que expongan en 10 minutos.
 
-**Grupos anfitriones:** 🚩 Error 404 - 🏳️‍🟩 Gorditos Siuu -  🇸🇴 JIGSA - 🏳️‍🟩 Joulie Faraday
+
+Módulo 3 **Simulación por Eventos Discretos** 
+
+**Grupos anfitriones:** 🚩 KPI Rojos - 🏳️‍🟩 Las Valiente -  🇸🇴 Les Chats - 🏳️‍🟩 Los Inductores
+
 
 
 ## Listado
@@ -206,6 +210,8 @@ Los grupos anfitriones serán los responsables de organizar la lista de exposito
 
 ## Calificaciones Presentación Módulo 2
 
+🚩 Consejo de Sabios 10 - 🏳️‍🟩 Error 404 10 - 🇸🇴 Dibala a Boca 10
+
 ## 1er Grupo
 Dybala a Boca
 1.8 penitencia de Newton 
@@ -274,3 +280,7 @@ Fibonacci
 Avogradro Toast
 Vector secuencia
 
+## 17vo Grupo 
+GIGSA  
+
+Calificación 10  🥇
