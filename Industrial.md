@@ -19,15 +19,6 @@
 Grupos anfitriones: 🚩 Consejo de Sabios - 🏳️‍🟩 Error 404 -  🇸🇴 Dibala a Boca
 
 
-**22 de Abril** -> Simulación por Eventos Discretos **Módulo 3**
-
-  * Finalización de la evaluación
-
-  * Descargas <https://nube.ingenieria.uncuyo.edu.ar/f/17250434>
-  * Descarga de CS Económicas <https://themys.sid.uncu.edu.ar/rpalma/Industrial/R-CRAN%20TyHM/DES/>
-
-
-Grupos anfitriones: 🚩 Consejo de Sabios - 🏳️‍🟩 Error 404 -  🇸🇴 Dibala a Boca
 
 
 <hr> 
@@ -45,7 +36,14 @@ Realizar una presentación en R de todo el contenido del módulo 2 - evaluación
 Los grupos anfitriones serán los responsables de organizar la lista de expositores y verificar que expongan en 10 minutos.
 
 
-**22 de Abril**
+
+
+**22 de Abril** -> Simulación por Eventos Discretos **Módulo 3**
+
+  * Finalización de la evaluación
+
+  * Descargas <https://nube.ingenieria.uncuyo.edu.ar/f/17250434>
+  * Descarga de CS Económicas <https://themys.sid.uncu.edu.ar/rpalma/Industrial/R-CRAN%20TyHM/DES/>
 
 
 Módulo 3 **Simulación por Eventos Discretos** 
@@ -54,6 +52,10 @@ Módulo 3 **Simulación por Eventos Discretos**
 
 **Grupos anfitriones:** 🚩 KPI Rojos - 🏳️‍🟩 Las Valiente -  🇸🇴 Les Chats - 🏳️‍🟩 Los Inductores
 
+**29 de Abril** Ejercicios DEVS
+Referencias Bibliogŕaficas [link](https://www.amazon.com/-/es/Modelizaci%C3%B3n-discretos-simulaci%C3%B3n-procesos-decisi%C3%B3n/dp/6207528417/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3SSLQKKIFB1KC&dib=eyJ2IjoiMSJ9.EErP_x1DN8irL9cHG1t10ONVp-HYbNHX-JMu_hn2PnLGjHj071QN20LucGBJIEps.n4vp8sW0LTulQxw11OgoPLd976bnz59-FGKJ5Ont8OQ&dib_tag=se&keywords=simulaci%C3%B3n+por+eventos+discretos&qid=1777478925&sprefix=simulaci%C3%B3n+por+evnetos+discreto%2Caps%2C400&sr=8-1)
+
+Modelización de eventos discretos y simulación de procesos de decisión de Markov: Aplicación a los Efectos de Apalancamiento (Spanish Edition) Tapa blanda – 11 Mayo 2024
 
 
 ## Listado
