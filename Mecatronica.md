@@ -71,8 +71,16 @@ Nano VNA
 * Antena Magnetic Loop
 * Investigación sobre Xnec2c para simular antenas (sustituto de Mmana-Gal
   
+**29 de Abril**
 
+* Instalación de Sky Roof [Descargar](https://ve3nea-github-io.translate.goog/SkyRoof/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
+* Vinculación con RTLSDR
+* Técnicas de Soldadura
+* Conecores BNC
+* Pruebas con [Zello](https://zello.com/es/)
+* Primeras Fotografías de Satélites
 
+  
 ## Listado de alumnos
 
 | Apellido  Nombre | Correo Electrónico |
