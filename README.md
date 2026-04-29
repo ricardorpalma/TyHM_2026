@@ -41,13 +41,11 @@ Mediación de Materiales TyHM 2026
 | ZZZ | https://github.com/bautistapons/entregass | Rocio Gomez, Maria Celina Lopez, Maia Ortiz, Bautista Pons |  M1 |
 | $\lambda$| <https://github.com/Nicolas-Sarmiento_lugones/entregas> | .	Juan Martín, Notti	Joaquin , Peiro	Francisco, .	Nicolas Sarmiento , .	Raimundo Glasner |   |
 |Los Pookies | <https://github.com/franallamand/Entrega_Modulo_1> | Facundo Dip, Pedro Elizalde, Mateo Notti, Francisco Allamand | M1 |
+|Los T Warrior| <https://github.com/JuanMartinFunes/Entrega_Modulo_1/> | Juan Mateo Hidalgo, Manuel Roby , Matteo Pratellesi Diaz, Juan Martín Funes , Juan Cruz Solchaga | M1 |   
 
 
 Sin grupo 
 
-Juan Mateo Hidalgo, Manuel Robi , Matteo Pratellesi Diaz, Juan Martín Funes , Juan Cruz Solchaga , *   
-
-Delfina Gómez Ganam , Bietti Tomás,|
 
 
 Juan Mateo Hidalgo, Manuel Robi , Matteo Pratellesi Diaz, Juan Martín Funes , Juan Cruz Solchaga
