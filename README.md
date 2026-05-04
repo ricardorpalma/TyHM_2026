@@ -28,7 +28,7 @@ Mediación de Materiales TyHM 2026
 | KPI Rojos | <http://github.com/fdelpopolos/Entrega> | Villalba	Ezequiel Del Popolo	Francisco Smovir	Pablo .	Matias Salinas ,Nicotra Amparo  | M1 |
 | Las valientes  |  | .	Paulina Maselli -	Rosario .	Angelica Collazo  	Juana .	Angelina, Clarisse Raingeard |   |
 | Les Chats | <https://github.com/mercierchloe/entrega> | jiji	Andrés , Buttazzoni Gonzalez 	Juan Francisco , 	Lucas Manuel Baena , mercier	chloé , -	Francisco Avallone | M1 |
-| Los Inductores | <http://github.com/Caetana01/MODULO-1> | A	Franco Manassero, Leo Crimi 	Caetana Electra , Ludueña 	Alondra Pilar ,.	Joaquin Bressan ,Don	Guillermo Ignacio | M1 |
+| Los Inductores | <http://github.com/Caetana01/MODULO-1> | A	Franco Manassero, Leo Crimi 	Caetana Electra, García 	Leslie Rocío , Ludueña 	Alondra Pilar ,.	Joaquin Bressan ,Don	Guillermo Ignacio | M1 |
 | Los Iraníes  | <http://github.com/pedro-farjo/Entrga_Modulo1> | 	Ignacio March, 	Renzo Martini, Vega	Lucas,	Pedro Farjo ,Silioni	Luca, 	Enzo carbone  | M1 |
 | Los Palmeras | <https://github.com/baucalderon-2026/ENTREGA> | * Luciano Figuera, * Lisandro Cerdán , * Alejo De Miguel , Bautista Calderón, Nathan Graff, Facundo Moreschi | M1 |
 | Los Técnicos | <https://github.com/cami2722s-sys/Modulo_1> | Camila, Maite Julieta, Ignacio Coronado ,  Franca Bielsa , Rocío Alarcón| M1 | 
