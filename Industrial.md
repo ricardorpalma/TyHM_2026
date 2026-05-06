@@ -62,6 +62,17 @@ Modelización de eventos discretos y simulación de procesos de decisión de Mar
 Modelos link
 
 **Grupos anfitriones:** 🚩 Los Iranies - 🏳️‍🟩 Los Técnicos -  🇸🇴 Los $\pi$ 
+
+
+**07 de Mayo**
+Actividades presenciales suspendidas por alerta de viento zonda.
+
+Dejo link a Video con consignas para trabajo autónomo de los alumnos de ingeniería industrial
+
+Link Video [Link](https://www.youtube.com/watch?v=O0eU_IK1Glc)
+Materiales clase 7 de Mayo [Link](http://themys.sid.uncu.edu.ar/rpalma/Industrial/R-CRAN%20TyHM/Simulacion/)
+
+<hr>
 ## Listado
 
 
