@@ -88,7 +88,47 @@ Nano VNA
 * Revisión de gestor de proyecto de git hub
 * Errores en Moxon
 * Avances en materiales para Yagi
-  
+<hr>
+Para hoy, **miércoles 13 de mayo de 2026**, el cielo sobre Mendoza (FF57oc) presentará excelentes oportunidades de avistamiento, destacando un pase de alta elevación de la **Estación Espacial Internacional (ISS)**.
+
+Teniendo en cuenta que el sol se pone a las **18:50 hs**, estas son las pasadas más relevantes para la tarde/noche:
+
+### **Estación Espacial Internacional (ISS)**
+
+Este será el objeto más brillante y fácil de identificar (parece una estrella fija que se mueve rápido sin parpadear).
+
+* **Hora de inicio:** 19:44 hs (aparece por el Noroeste).
+* **Punto máximo:** **19:50 hs** (alcanzará una elevación de **69°**, casi en el cenit).
+* **Fin del pase:** 19:55 hs (desaparece hacia el Sudeste).
+* **Brillo:** Magnitud muy alta, visible incluso con contaminación lumínica urbana.
+
+### **Satélites Starlink**
+
+Hay varios trenes de satélites activos. Aunque su brillo ha disminuido respecto a lanzamientos anteriores, suelen ser visibles en grupos:
+
+* **Starlink G17-29:** Lanzado recientemente (6 de mayo), es posible observar una formación lineal poco después del atardecer.
+* **Recomendación:** Consultar *Heavens-Above* o la app *Find Starlink* para horarios exactos de "trenes" específicos de esta noche, ya que su visibilidad depende mucho de la inclinación solar en el momento exacto.
+
+### **Satélites de Radioafición (Operativos para LU3MRP)**
+
+Dado que operás con equipos de radio, te interesará monitorear los siguientes pájaros que suelen tener pasadas frecuentes sobre el cono sur:
+
+* **SOPRANO (RS-44):** Revisar pasadas en el rango de los 145/435 MHz.
+* **AO-91 / PO-101:** Satélites FM de órbita baja (LEO) que suelen tener ventanas de 10-12 minutos sobre Mendoza.
+* **ISS (FM Repeater / APRS):** Durante el pase de las 19:44 hs, el repetidor de banda cruzada (V/U) o el sistema APRS (145.825 MHz) estarán activos.
+
+---
+
+### **Condiciones Meteorológicas en Mendoza**
+
+* **Cielo:** Algo nublado, pero con tendencia a despejarse hacia la noche.
+* **Temperatura:** Se espera una mínima de **6°C** para la madrugada, así que si hacés radio de campo o visualización, recordá el abrigo.
+* **Luna:** Estamos en fase de **Luna Azul de mayo** (luna llena/creciente), lo que aportará bastante luz ambiental, dificultando la visión de satélites más tenues (magnitud > 3.5).
+
+**Tip técnico:** Para el grid **FF57oc**, te sugiero calibrar tu **NanoVNA** si vas a intentar RX en 2 metros para el pase de la ISS, ya que al pasar a 69° de elevación tendrás una señal muy fuerte pero con un efecto Doppler marcado.
+
+<hr>
+
   
 ## Listado de alumnos
 
