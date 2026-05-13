@@ -64,13 +64,24 @@ Modelos link
 **Grupos anfitriones:** 🚩 Los Iranies - 🏳️‍🟩 Los Técnicos -  🇸🇴 Los $\pi$ 
 
 
-**07 de Mayo**
+**06 de Mayo**
 Actividades presenciales suspendidas por alerta de viento zonda.
 
 Dejo link a Video con consignas para trabajo autónomo de los alumnos de ingeniería industrial
 
 Link Video [Link](https://www.youtube.com/watch?v=O0eU_IK1Glc)
 Materiales clase 7 de Mayo [Link](http://themys.sid.uncu.edu.ar/rpalma/Industrial/R-CRAN%20TyHM/Simulacion/)
+
+**13 de Mayo**
+
+* Modelización de eventos discretos, balanceo de línea y asignación de recursos
+* ¿Como evitar los bloqueos?
+* Visual Logic
+* Optimizadores via API
+* Preparación de experimento para seminario módulo 4
+
+ **Grupos anfitriones:** 🎌 Mate Amargo 🕞-  Modern Tech -  🇸🇴 Pipu's 🌙
+ 
 
 <hr>
 ## Listado
