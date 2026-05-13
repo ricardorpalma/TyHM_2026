@@ -36,7 +36,7 @@ Mediación de Materiales TyHM 2026
 | Mate Amargo  | <https://github.com/allaymaria/Entrega-Modulo-1> | Emiliano Daniel Jaime Ayosa , María Mashael Allay Alfonso , Estefania Funes Brown , Nancy Noemi Sara Fajardo, Zaragoza Matias | M1 |
 | Modern Tech | http://github.com/sofi-blas/Entrega-Modulo1 | Eugenio Alastra ,Sofía Blas Delpozzi, Rocio Anabel, Bianca Nicole Lombardo, Camila Sepulveda, Luciana Gallina| M1 |
 | Pipu’s  | https://github.com/IAN3CANADAS/ENTREGAMODULO1 | Bautista, Ian, Mateo isgro, Joaquin, <lucas Salvo, Nico La Rocca | M1 |
-| Sinergia 5S |  | Scaccia 	Octavio, Benedetti	Gino , .	Rocío Andre , 	Sol Florindo ,Pereyra 	Martina  |    |
+| Sinergia 5S | <https://github.com/delfinagomez110-design> | Delfina Gomez, Scaccia 	Octavio, Benedetti	Gino , .	Rocío Andre , 	Sol Florindo ,Pereyra 	Martina  |    |
 | Tecnica2  | <https://github.com/JuanALuna/Entrega> | * Juan Manuel, * Ariana Galli, Leandro Olguin , Juan Luna , Luciana Noriega | M1 |
 | ZZZ | https://github.com/bautistapons/entregass | Rocio Gomez, Maria Celina Lopez, Maia Ortiz, Bautista Pons |  M1 |
 | $\lambda$| <https://github.com/Nicolas-Sarmiento_lugones/entregas> | .	Juan Martín, Notti	Joaquin , Peiro	Francisco, .	Nicolas Sarmiento , .	Raimundo Glasner |   |
