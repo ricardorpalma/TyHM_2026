@@ -80,6 +80,15 @@ Nano VNA
 * Pruebas con [Zello](https://zello.com/es/)
 * Primeras Fotografías de Satélites
 
+**13 de Mayo**
+
+* Revisión de avances en Git hub individual
+* Integración con Gith Hub Green Belt 
+* Capturas de videos de satélites
+* Revisión de gestor de proyecto de git hub
+* Errores en Moxon
+* Avances en materiales para Yagi
+  
   
 ## Listado de alumnos
 
