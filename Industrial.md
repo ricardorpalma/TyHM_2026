@@ -249,17 +249,17 @@ Materiales clase 7 de Mayo [Link](http://themys.sid.uncu.edu.ar/rpalma/Industria
 ## 1er Grupo
 Dybala a Boca
 1.8 penitencia de Newton 
-Calificación: 9
+Calificación: M1 9
 
 ## 2do Grupo
 Les chats
 Definición matemática recurrente 1.6
-Calificación: 8
+Calificación: M1 8
 
 ## 3er Grupo
 Budín de Banana 🥈
 1.4 
-Calificación: 10
+Calificación: M1 10
 
 ## 4to Grupo
 KPI rojo
@@ -268,11 +268,12 @@ tic toc
 ## 5to Grupo
 Los inductores
 Ordenamiento de un vector con el método de burbuja
-Calificación: 10
+Calificación: M1 10
 
 ## 6to Grupo
 Los Pi
 Generar un vector secuencia
+Calificació: 8
 
 ## 7mo Grupo
 Tecnica2
@@ -281,6 +282,7 @@ Vector secuencia
 ## 8vo Grupo
 Mate amargo
 Definición matemática recurrente 1.6
+Calificación. M1 10 
 
 ## 9no Grupo
 Calculitos
@@ -288,7 +290,7 @@ La penitencia de Newton
 
 ## 10mo Grupo
 Alpha 
-Fibonacci
+Fibonacci Calificación 10 🥇 
 
 ## 11vo Grupo
 Moder teach
