@@ -29,19 +29,19 @@ Mediación de Materiales TyHM 2026
 | Las valientes  |  | .	Paulina Maselli -	Rosario .	Angelica Collazo  	Juana .	Angelina, Clarisse Raingeard |   |
 | **Les Chats** | <https://github.com/mercierchloe/entrega> | jiji	Andrés , Buttazzoni Gonzalez 	Juan Francisco , 	Lucas Manuel Baena , mercier	chloé , -	Francisco Avallone | M1- M2 Falta Rmd y Slidy |
 | **Los Inductores** | <http://github.com/Caetana01/MODULO-1> | A	Franco Manassero, Leo Crimi 	Caetana Electra, García 	Leslie Rocío , Ludueña 	Alondra Pilar ,.	Joaquin Bressan ,Don	Guillermo Ignacio | M1  |
-| Los Iraníes  | <http://github.com/pedro-farjo/Entrga_Modulo1> | 	Ignacio March, 	Renzo Martini, Vega	Lucas,	Pedro Farjo ,Silioni	Luca, 	Enzo carbone  | M1 |
-| Los Palmeras | <https://github.com/baucalderon-2026/ENTREGA> | * Luciano Figuera, * Lisandro Cerdán , * Alejo De Miguel , Bautista Calderón, Nathan Graff, Facundo Moreschi | M1 |
-| Los Técnicos | <https://github.com/cami2722s-sys/Modulo_1> | Camila, Maite Julieta, Ignacio Coronado ,  Franca Bielsa , Rocío Alarcón| M1 | 
-| Los $\pi$ | <http://github.com/Emiliano-Ochoa/Entrega-Módulo1> | Tiago Friscolanti, Santiago Jara, Gerardo , Facundo Romero, Emiliano Ochoa | M1 |
-| Mate Amargo  | <https://github.com/allaymaria/Entrega-Modulo-1> | Emiliano Daniel Jaime Ayosa , María Mashael Allay Alfonso , Estefania Funes Brown , Nancy Noemi Sara Fajardo, Zaragoza Matias | M1 |
-| Modern Tech | http://github.com/sofi-blas/Entrega-Modulo1 | Eugenio Alastra ,Sofía Blas Delpozzi, Rocio Anabel, Bianca Nicole Lombardo, Camila Sepulveda, Luciana Gallina| M1 |
-| Pipu’s  | https://github.com/IAN3CANADAS/ENTREGAMODULO1 | Bautista, Ian, Mateo isgro, Joaquin, <lucas Salvo, Nico La Rocca | M1 |
-| Sinergia 5S | <https://github.com/delfinagomez110-design> | Delfina Gomez, Scaccia 	Octavio, Benedetti	Gino , .	Rocío Andre , 	Sol Florindo ,Pereyra 	Martina  |    |
-| Tecnica2  | <https://github.com/JuanALuna/Entrega> | * Juan Manuel, * Ariana Galli, Leandro Olguin , Juan Luna , Luciana Noriega | M1 |
-| ZZZ | https://github.com/bautistapons/entregass | Rocio Gomez, Maria Celina Lopez, Maia Ortiz, Bautista Pons |  M1 |
-| $\lambda$| <https://github.com/Nicolas-Sarmiento_lugones/entregas> | .	Juan Martín, Notti	Joaquin , Peiro	Francisco, .	Nicolas Sarmiento , .	Raimundo Glasner |   |
-|Los Pookies | <https://github.com/franallamand/Entrega_Modulo_1> | Facundo Dip, Pedro Elizalde, Mateo Notti, Francisco Allamand | M1 |
-|Los T Warrior| <https://github.com/JuanMartinFunes/Entrega_Modulo_1/> | Juan Mateo Hidalgo, Manuel Roby , Matteo Pratellesi Diaz, Juan Martín Funes , Juan Cruz Solchaga | M1 |   
+| **Los Iraníes**  | <https://github.com/pedro-farjo/Entrega_Modulo1> | 	Ignacio March, 	Renzo Martini, Vega	Lucas,	Pedro Farjo ,Silioni	Luca, 	Enzo carbone  | M1 |
+| **Los Palmeras** | <https://github.com/baucalderon-2026/ENTREGA> | * Luciano Figuera, * Lisandro Cerdán , * Alejo De Miguel , Bautista Calderón, Nathan Graff, Facundo Moreschi | M1 |
+| **Los Técnicos** | <https://github.com/cami2722s-sys/Modulo_1> | Camila, Maite Julieta, Ignacio Coronado ,  Franca Bielsa , Rocío Alarcón| M1 - M2 | 
+| **Los $\pi$** | <https://github.com/Emiliano-Ochoa/Entrega-Modulo1> | Tiago Friscolanti, Santiago Jara, Gerardo , Facundo Romero, Emiliano Ochoa | M1 - M2|
+| **Mate Amargo**  | <https://github.com/allaymaria/Entrega-Modulo-1> | Emiliano Daniel Jaime Ayosa , María Mashael Allay Alfonso , Estefania Funes Brown , Nancy Noemi Sara Fajardo, Zaragoza Matias | M1 - M2 |
+| **Modern Tech** | <http://github.com/sofi-blas/Entrega-Modulo1> | Eugenio Alastra ,Sofía Blas Delpozzi, Rocio Anabel, Bianca Nicole Lombardo, Camila Sepulveda, Luciana Gallina| M1 - M2 |
+| **Pipu’s**  | <https://github.com/IAN3CANADAS/ENTREGAMODULO1> | Bautista, Ian, Mateo isgro, Joaquin, <lucas Salvo, Nico La Rocca | M1 |
+| Sinergia 5S | <https://github.com/delfinagomez110-design> | Delfina Gomez, Scaccia 	Octavio, Benedetti	Gino , .	Rocío Andre , 	Sol Florindo ,Pereyra 	Martina  |  M1 - M2  |
+| **Tecnica2**  | <https://github.com/JuanALuna/Entrega> | * Juan Manuel, * Ariana Galli, Leandro Olguin , Juan Luna , Luciana Noriega | M1 - M2 faltan Rmd y slidy |
+| **ZZZ** | https://github.com/bautistapons/entregass | Rocio Gomez, Maria Celina Lopez, Maia Ortiz, Bautista Pons |  M1 - M2 faltan Rmd y slidy |
+| **$\lambda$** | <https://github.com/Nicolas-Sarmiento_lugones/entregas> | .	Juan Martín, Notti	Joaquin , Peiro	Francisco, .	Nicolas Sarmiento , .	Raimundo Glasner | no existe el sitio  |
+| **Los Pookies** | <https://github.com/franallamand/Entrega_Modulo_1> | Facundo Dip, Pedro Elizalde, Mateo Notti, Francisco Allamand | M1 -Falta slidy |
+|Los T Warrior| <https://github.com/JuanMartinFunes/Entrega_Modulo_1/> | Juan Mateo Hidalgo, Manuel Roby , Matteo Pratellesi Diaz, Juan Martín Funes , Juan Cruz Solchaga | M1 M2 Falta slidy|   
 
 
 Sin grupo 
