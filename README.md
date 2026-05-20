@@ -12,23 +12,23 @@ Mediación de Materiales TyHM 2026
 
 |Grupo de Trabajo | Github de entrega  | Rúbricas | Aprobado |
 |-----------------|------------------------------------------------------------|-------------|----|
-| Actitud positiva :) | <https://github.com/Luciano-Migoni/Entregas> | Albarracin Gianella Sfrede Genaro ,Ignacio Perez , Luciano Migoni |  |
-| Aleph | <https://github.com/veratomas/entrega-modulo-1> | Tomás Santiago ,Tomás Francisco Cabrera Sendra, Juan Marcos Aguirre, Luciano Correa Pol, Enzo Scala  | M1 | 
-| Alpha | <http://github.com/RubenCruz0703/modulo1> | Matías Rosa ,Yesica Elizabeth , Simón Manuel ,Chiara Palmero,Ruben Exequiel Cruz |  M1 |  
-| Avogadro toast | <https://github.com/lucia-salamone/Entrega_Modulo_1> | Pilar Mujica, Lucia Salamone ,Rocio Martinez, * Valentina?  , Sara Kemelmajer, Caterina DiNnocenzo, Lucas Segura, Matias Rosa | M1 |
-| Budín de banana | <https://github.com/Mili5555/Entrega1> | Dominguez Galdame	Lucía Constanza, Bonita	Milagros Farina,.	María Romero ,Valle 	Julieta , Cavalli Hilario | M1 |
-| Calculito | <https://github.com/GuillermoPellegrini1/Entrega> | Guillermo Damián ,Fabricio, Tiago Sánchez, Mateo Ambrogetti ,Victoria Bautista   | M1 |
-| Clasica y moderna | https://github.com/santiago-perezvicchi10/Entrega> | María Guadalupe ,Sfragara	Luciano ,Zoia	Julián ,.	Joaquín , .	Santiago Perez Vicchi  | M1 |
-| Concejo de sabios | <https://github.com/joaquinatorr/entrega> |	Pedro Simón,	Joaquín Spongia, Facundo Perea,  	Joaquín Martinez | M1 |
-| Dybala a Boca | <https://github.com/Santiago-Pena2003/Entrega-Modulo-1> | Santiago Joaquín Peña, Sebastian Dimarco ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  | M1 | 
-| Error 404 |  <https://github.com/ezequiel-choqueaguirre/Error-404> | Lisandro Ezequiel Martin , Tadeo Gabriel, Josefina Perez, Blanco Nicolás, Marco Boero  | M1  |
-| Gorditos Siuu | <https://github.com/ignaciojuann07/Grupo-tecnicas-> | 	Juan González Ignacio ,	Pilar Zuñiga , Euillades	Santiago , Huenchuguala	Joaquin ,.	Celeste Herzóg | M1 | 
-| JIGSA | <https://github.com/segea86/TyHM_Modulo1> |.	Marcia Benegas ,.	Gonzalez Gonzalo, Egea	Sebastián, -	Simonovich Jael Gisel ,  	Juan Ignacio Ristagno   | M1 |
-| Joulie Faraday | <https://github.com/emanuel-gomez-rastrilla/entregamodulo_1>  | Mauricio Jesús Mansur, Emanuel Gomez, Mattia Malnis  Valentino Giampietri,  Ana Clara Godoy | M1 |
-| KPI Rojos | <http://github.com/fdelpopolos/Entrega> | Villalba	Ezequiel Del Popolo	Francisco Smovir	Pablo .	Matias Salinas ,Nicotra Amparo  | M1 |
+| **Actitud positiva** :) | <https://github.com/Luciano-Migoni/Entregas> | Albarracin Gianella Sfrede Genaro ,Ignacio Perez , Luciano Migoni |  | M1 |
+| **Aleph** | <https://github.com/veratomas/entrega-modulo-1> | Tomás Santiago ,Tomás Francisco Cabrera Sendra, Juan Marcos Aguirre, Luciano Correa Pol, Enzo Scala  | M1 - M2 (Solo Aguirre)| 
+| **Alpha** | <http://github.com/RubenCruz0703/modulo1> | Matías Rosa ,Yesica Elizabeth , Simón Manuel ,Chiara Palmero,Ruben Exequiel Cruz |  M1 |  
+| **Avogadro toast** | <https://github.com/lucia-salamone/Entrega_Modulo_1> | Pilar Mujica, Lucia Salamone ,Rocio Martinez, * Valentina?  , Sara Kemelmajer, Caterina DiNnocenzo, Lucas Segura, Matias Rosa | M1 - M2 |
+| **Budín de banana** | <https://github.com/Mili5555/Entrega1> | Dominguez Galdame	Lucía Constanza, Bonita	Milagros Farina,.	María Romero ,Valle 	Julieta , Cavalli Hilario | M1 - M2 |
+| **Calculito** | <https://github.com/GuillermoPellegrini1/Entrega> | Guillermo Damián ,Fabricio, Tiago Sánchez, Mateo Ambrogetti ,Victoria Bautista   | M1 Faltan trabajos |
+| **Clasica y moderna** | https://github.com/santiago-perezvicchi10/Entrega> | María Guadalupe ,Sfragara	Luciano ,Zoia	Julián ,.	Joaquín , .	Santiago Perez Vicchi  | M1 - M2 |
+| **Concejo de sabios** | <https://github.com/joaquinatorr/entrega> |	Pedro Simón,	Joaquín Spongia, Facundo Perea,  	Joaquín Martinez | M1 |
+| **Dybala a Boca** | <https://github.com/Santiago-Pena2003/Entrega-Modulo-1> | Santiago Joaquín Peña, Sebastian Dimarco ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  | M1 no aprobado - No utilizar link directo a RStudio | 
+| **Error 404** |  <https://github.com/ezequiel-choqueaguirre/Error-404> | Lisandro Ezequiel Martin , Tadeo Gabriel, Josefina Perez, Blanco Nicolás, Marco Boero  | M1 - M2 Faltan RMD y presentacion Slidy  |
+| **Gorditos Siuu** | <https://github.com/ignaciojuann07/Grupo-tecnicas-> | 	Juan González Ignacio ,	Pilar Zuñiga , Euillades	Santiago , Huenchuguala	Joaquin ,.	Celeste Herzóg | M1 - Modulo 2 faltan Rmd y slidy | 
+| **JIGSA** | <https://github.com/segea86/TyHM_Modulo1> |.	Marcia Benegas ,.	Gonzalez Gonzalo, Egea	Sebastián, -	Simonovich Jael Gisel ,  	Juan Ignacio Ristagno   | M1 |
+| **Joulie Faraday** | <https://github.com/emanuel-gomez-rastrilla/entregamodulo_1>  | Mauricio Jesús Mansur, Emanuel Gomez, Mattia Malnis  Valentino Giampietri,  Ana Clara Godoy | M1 - M2 |
+| **KPI Rojos** | <http://github.com/fdelpopolos/Entrega> | Villalba	Ezequiel Del Popolo	Francisco Smovir	Pablo .	Matias Salinas ,Nicotra Amparo  |  |
 | Las valientes  |  | .	Paulina Maselli -	Rosario .	Angelica Collazo  	Juana .	Angelina, Clarisse Raingeard |   |
-| Les Chats | <https://github.com/mercierchloe/entrega> | jiji	Andrés , Buttazzoni Gonzalez 	Juan Francisco , 	Lucas Manuel Baena , mercier	chloé , -	Francisco Avallone | M1 |
-| Los Inductores | <http://github.com/Caetana01/MODULO-1> | A	Franco Manassero, Leo Crimi 	Caetana Electra, García 	Leslie Rocío , Ludueña 	Alondra Pilar ,.	Joaquin Bressan ,Don	Guillermo Ignacio | M1 |
+| **Les Chats** | <https://github.com/mercierchloe/entrega> | jiji	Andrés , Buttazzoni Gonzalez 	Juan Francisco , 	Lucas Manuel Baena , mercier	chloé , -	Francisco Avallone | M1- M2 Falta Rmd y Slidy |
+| **Los Inductores** | <http://github.com/Caetana01/MODULO-1> | A	Franco Manassero, Leo Crimi 	Caetana Electra, García 	Leslie Rocío , Ludueña 	Alondra Pilar ,.	Joaquin Bressan ,Don	Guillermo Ignacio | M1  |
 | Los Iraníes  | <http://github.com/pedro-farjo/Entrga_Modulo1> | 	Ignacio March, 	Renzo Martini, Vega	Lucas,	Pedro Farjo ,Silioni	Luca, 	Enzo carbone  | M1 |
 | Los Palmeras | <https://github.com/baucalderon-2026/ENTREGA> | * Luciano Figuera, * Lisandro Cerdán , * Alejo De Miguel , Bautista Calderón, Nathan Graff, Facundo Moreschi | M1 |
 | Los Técnicos | <https://github.com/cami2722s-sys/Modulo_1> | Camila, Maite Julieta, Ignacio Coronado ,  Franca Bielsa , Rocío Alarcón| M1 | 
