@@ -12,7 +12,7 @@ Mediación de Materiales TyHM 2026
 
 |Grupo de Trabajo | Github de entrega  | Rúbricas | Aprobado |
 |-----------------|------------------------------------------------------------|-------------|----|
-| **Actitud positiva** :) | <https://github.com/Luciano-Migoni/Entregas> | Albarracin Gianella Sfrede Genaro ,Ignacio Perez , Luciano Migoni |  | M1 |
+| **Actitud positiva** :) | <https://github.com/Luciano-Migoni/Entregas> | Albarracin Gianella Sfrede Genaro ,Ignacio Perez , Luciano Migoni |  M1 |
 | **Aleph** | <https://github.com/veratomas/entrega-modulo-1> | Tomás Santiago ,Tomás Francisco Cabrera Sendra, Juan Marcos Aguirre, Luciano Correa Pol, Enzo Scala  | M1 - M2 (Solo Aguirre)| 
 | **Alpha** | <http://github.com/RubenCruz0703/modulo1> | Matías Rosa ,Yesica Elizabeth , Simón Manuel ,Chiara Palmero,Ruben Exequiel Cruz |  M1 |  
 | **Avogadro toast** | <https://github.com/lucia-salamone/Entrega_Modulo_1> | Pilar Mujica, Lucia Salamone ,Rocio Martinez, * Valentina?  , Sara Kemelmajer, Caterina DiNnocenzo, Lucas Segura, Matias Rosa | M1 - M2 |
