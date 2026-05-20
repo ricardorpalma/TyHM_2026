@@ -129,6 +129,18 @@ Dado que operás con equipos de radio, te interesará monitorear los siguientes 
 
 <hr>
 
+**20 de Mayo**
+
+* Ajuste fino de la antena dipolo y Moxon
+*  Informes con NanoVNA Saver
+*  Planos o modelos 3D Rotor de Antena
+*  Protocolo de comunicaciones rotor
+*  Abrir puertos Linux con Ngrok <https://ngrok.com/>
+*  Listado de SDR phantom <https://sdr-list.xyz/>
+*  Verificar covertura de frecuencias - ver
+    *  NovaSDR
+    *  UberSDR
+Revisión de links a Githubs individuales 
   
 ## Listado de alumnos
 
