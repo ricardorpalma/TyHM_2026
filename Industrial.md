@@ -81,10 +81,12 @@ Materiales clase 7 de Mayo [Link](http://themys.sid.uncu.edu.ar/rpalma/Industria
 * Preparación de experimento para seminario módulo 4
 
  **Grupos anfitriones:** 🎌 ~~Mate Amargo~~ 🕞-  ~~Modern Tech~~ 🕞-  🇸🇴 Pipu's 🥈
- 
+
+<hr> 
 **20 de Mayo**
-Cierre módulo 3
-*Inicio módulo 4 - Seminario de Investigación*
+
+* Cierre módulo 3
+* Inicio módulo 4 - Seminario de Investigación*
 
  **Grupos anfitriones:** 🎌 Sinergia 5S 🕞-  Técnicas 2 -  ZZZ
 <hr>
