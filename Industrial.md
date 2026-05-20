@@ -80,9 +80,13 @@ Materiales clase 7 de Mayo [Link](http://themys.sid.uncu.edu.ar/rpalma/Industria
 * Optimizadores via API
 * Preparación de experimento para seminario módulo 4
 
- **Grupos anfitriones:** 🎌 Mate Amargo 🕞-  Modern Tech -  🇸🇴 Pipu's 🌙
+ **Grupos anfitriones:** 🎌 ~~Mate Amargo~~ 🕞-  ~~Modern Tech~~ 🕞-  🇸🇴 Pipu's 🥈
  
+**20 de Mayo**
+Cierre módulo 3
+*Inicio módulo 4 - Seminario de Investigación*
 
+ **Grupos anfitriones:** 🎌 Sinergia 5S 🕞-  Técnicas 2 -  ZZZ
 <hr>
 ## Listado
 
