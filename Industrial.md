@@ -83,6 +83,7 @@ Materiales clase 7 de Mayo [Link](http://themys.sid.uncu.edu.ar/rpalma/Industria
  **Grupos anfitriones:** 🎌 ~~Mate Amargo~~ 🕞-  ~~Modern Tech~~ 🕞-  🇸🇴 Pipu's 🥈
 
 <hr> 
+
 **20 de Mayo**
 
 * Cierre módulo 3
