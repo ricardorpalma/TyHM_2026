@@ -39,7 +39,7 @@ Mediación de Materiales TyHM 2026
 | Sinergia 5S | <https://github.com/delfinagomez110-design> | Delfina Gomez, Scaccia 	Octavio, Benedetti	Gino , .	Rocío Andre , 	Sol Florindo ,Pereyra 	Martina  |  M1 - M2  |
 | **Tecnica2**  | <https://github.com/JuanALuna/Entrega> | * Juan Manuel, * Ariana Galli, Leandro Olguin , Juan Luna , Luciana Noriega | M1 - M2 faltan Rmd y slidy |
 | **ZZZ** | https://github.com/bautistapons/entregass | Rocio Gomez, Maria Celina Lopez, Maia Ortiz, Bautista Pons |  M1 - M2 faltan Rmd y slidy |
-| **$\lambda$** | <https://github.com/Nicolas-Sarmiento_Lugones/Entregas> | .	Juan Martín, Notti	Joaquin , Peiro	Francisco, .	Nicolas Sarmiento , .	Raimundo Glasner | no existe el sitio  |
+| **$\lambda$** | <https://github.com/Nicolas-Sarmiento-Lugones/Entregas> | .	Juan Martín, Notti	Joaquin , Peiro	Francisco, .	Nicolas Sarmiento , .	Raimundo Glasner | no existe el sitio  |
 | **Los Pookies** | <https://github.com/franallamand/Entrega_Modulo_1> | Facundo Dip, Pedro Elizalde, Mateo Notti, Francisco Allamand | M1 -Falta slidy |
 |Los T Warrior| <https://github.com/JuanMartinFunes/Entrega_Modulo_1/> | Juan Mateo Hidalgo, Manuel Roby , Matteo Pratellesi Diaz, Juan Martín Funes , Juan Cruz Solchaga | M1 M2 Falta slidy|   
 
