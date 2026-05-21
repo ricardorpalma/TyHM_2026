@@ -6,6 +6,6 @@ oa_fetch(
   from_publication_date = as.character(fecha_inicio),
   verbose = FALSE
 
-  < https://github.com/trangdata/oarj/blob/main/paper-examples.md>
+  <https://github.com/trangdata/oarj/blob/main/paper-examples.md>
 
   <https://github.com/cran/openalexR>
