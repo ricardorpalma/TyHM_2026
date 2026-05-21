@@ -7,3 +7,5 @@ oa_fetch(
   verbose = FALSE
 
   < https://github.com/trangdata/oarj/blob/main/paper-examples.md>
+
+  <https://github.com/cran/openalexR>
