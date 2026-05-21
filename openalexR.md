@@ -9,3 +9,5 @@ oa_fetch(
   <https://github.com/trangdata/oarj/blob/main/paper-examples.md>
 
   <https://github.com/cran/openalexR>
+
+  <https://github.com/trangdata/oarj/blob/main/paper-examples.md>
