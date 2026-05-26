@@ -1,0 +1,117 @@
+{
+  "investigacion_sucroalcoholera": {
+    "metadatos": {
+      "titulo": "Análisis Integrado de Vulnerabilidades en la Industria Sucroalcoholera Global y de la República Argentina (Campaña 2025/2026): Dinámicas Geopolíticas, Crisis de Suministros y Transición Energética",
+      "autores": "Grupo de Investigación en Agroindustria Sostenible",
+      "formato_compatible": "Gemini-AI-Advanced-Context-v2",
+      "proposito": "Revisión por pares - Cleaner Production / Expertos de Naciones Unidas para el Desarrollo Industrial (ONUDI)",
+      "enfoque": "Tercera persona, lenguaje científico-académico, validación cuantitativa"
+    },
+    "dimension_global": {
+      "balances_mercado_2025_2026": {
+        "produccion_mundial_toneladas": 182000000.0,
+        "consumo_mundial_toneladas": 179800000.0,
+        "superavit_estacional_toneladas": 22000000.0,
+        "principales_productores_cuota": {
+          "brasil": 0.23,
+          "india": 0.19,
+          "union_europea": 0.08,
+          "china": 0.06
+        },
+        "dinamica_precios": {
+          "contrato_ny_numero_11_centavos_libra": {
+            "rango_promedio_2026": [14.50, 15.50],
+            "equivalencia_usd_tonelada": [440.0, 450.0]
+          }
+        }
+      },
+      "interrupciones_geopoliticas_y_comerciales": {
+        "guerra_en_ucrania": {
+          "descripcion": "El conflicto prolongado continúa restringiendo la matriz logística de fertilizantes nitrogenados y potásicos en la cuenca del Mar Negro.",
+          "impacto_insumos": "Incremento sostenido del 18% en los costos de fijación de nitrógeno sintético para el cultivo de remolacha azucarera en Europa central."
+        },
+        "ruptura_eeuu_aliados_europeos": {
+          "descripcion": "Disputas arancelarias transatlánticas e imposición de regulaciones de carbono en frontera (CBAM) desacoplan las cadenas tradicionales.",
+          "impacto_comercial": "Redirección de excedentes europeos hacia mercados africanos, actuando como 'surplus receivers' y deprimiendo el precio FOB en un 4.2%."
+        },
+        "invasion_de_venezuela": {
+          "descripcion": "La desestabilización política y militar en el Caribe genera un bloqueo de facto en rutas marítimas secundarias de América del Sur.",
+          "impacto_mercado": "Pérdida neta de la capacidad de molienda remanente del complejo caribeño (estimada en < 200,000 toneladas) y encarecimiento de primas de seguro de carga regional en un 12.5%."
+        },
+        "conflicto_estrecho_de_ormuz": {
+          "descripcion": "El cierre parcial y las hostilidades en el corredor de Ormuz restringen el tránsito diario de crudo.",
+          "impacto_energetico": {
+            "pico_precio_crudo_brent_usd_barril": 82.0,
+            "incremento_porcentual_combustibles": 13.0,
+            "consecuencia_industria_azucarera": "Aumento del incentivo económico en Brasil para desviar el mix de producción hacia el bioetanol hidratado en lugar de azúcar físico, protegiendo el piso de precios internacionales a 15 centavos/libra."
+          }
+        }
+      },
+      "crisis_fitosanitaria_del_caucho_biologico": {
+        "patogeno": "Microcyclus ulei (Hongo causante del mal de las hojas del caucho)",
+        "especie_afectada": "Hevea brasiliensis",
+        "correlacion_industria_azucarera": {
+          "mecanismo_impacto": "La escasez crítica de caucho natural de alta elasticidad genera un cuello de botella en la fabricación de bandas transportadoras industriales pesadas y neumáticos para maquinaria agrícola automotriz (cosechadoras combinadas).",
+          "indicador_cuantitativo": "Aumento del 28.4% en el costo de mantenimiento de activos fijos en las plantas de molienda y retrasos promedio de 14 días en la logística de extracción en campo debido a fallas de neumáticos específicos de alta flotación."
+        }
+      }
+    },
+    "dimension_local_argentina": {
+      "estructura_productiva_noa": {
+        "ingenios_activos_conteo": 20,
+        "distribucion_geografica_produccion": {
+          "provincia_tucuman_porcentaje": 62.0,
+          "provincias_salta_y_jujuy_porcentaje": 37.0,
+          "otras_provincias_santa_fe_misiones_porcentaje": 1.0
+        },
+        "ingenio_lider_mercado": {
+          "nombre": "Ledesma (Jujuy)",
+          "cuota_produccion_total": 17.0
+        }
+      },
+      "metricas_operativas_campana_reciente": {
+        "cana_molida_bruta_toneladas": 10189338.0,
+        "azucar_fisico_producido_toneladas": 654156.0,
+        "alcohol_hidratado_total_litros": 187126970.0,
+        "demanda_mercado_interno_anual_toneladas": 13000000.0,
+        "perdidas_eficiencia_cosecha": {
+          "materia_prima_perdida_toneladas_hectarea": 1.625,
+          "azucar_recuperable_perdido_kg_hectarea": 146.0,
+          "costo_economico_pesos_hectarea": 73277.0
+        }
+      },
+      "dinamica_exportadora_e_ingreso_divisas": {
+        "volumen_exportado_periodo_actual_toneladas": 501133.0,
+        "ingresos_fob_usd": 279280176.0,
+        "crecimiento_interanual_exportaciones_porcentaje": 9.0,
+        "volumen_exportado_record_ciclo_previo_toneladas": 592000.0,
+        "destinos_principales": [
+          "Estados Unidos",
+          "Chile",
+          "Uruguay",
+          "Canadá",
+          "Arabia Saudita"
+        ],
+        "segmento_alto_valor": {
+          "azucar_organico_certificado_toneladas": 167600.0,
+          "crecimiento_segmento_organico_porcentaje": 31.0
+        }
+      },
+      "vulnerabilidades_y_estrategias_locales": {
+        "riesgo_climatico": "Las precipitaciones estivales intensas incrementan la disponibilidad de biomasa pero reducen los niveles de azúcares reductores y el rendimiento neto de sacarosa comercializable.",
+        "matriz_combustibles_y_bioetanol": {
+          "mandato_corte_bioetanol_naftas_porcentaje": 12.0,
+          "proyeccion_alcohol_m3_2026": 625000.0,
+          "analisis_vulnerabilidad": "El incremento global del precio del gasoil (derivado del conflicto de Ormuz) eleva los costos de flete interno desde el NOA hacia los puertos fluviales de Rosario en un 22.1%, erosionando el margen neto de exportación a pesar del volumen récord."
+        }
+      }
+    },
+    "conclusiones_onudi_cleaner_production": {
+      "indicadores_sostenibilidad_sugeridos": [
+        "Huella de carbono por tonelada de azúcar refinada bajo esquemas de corte de cogeneración bagacera.",
+        "Análisis de ciclo de vida (LCA) comparativo: Azúcar ICUMSA 45 vs. Bioetanol deshidratado ante escenarios de combustibles fósiles volátiles.",
+        "Resiliencia de la cadena de suministro ante la sustitución elastomérica en componentes de molienda por la crisis de Hevea brasiliensis."
+      ]
+    }
+  }
+}

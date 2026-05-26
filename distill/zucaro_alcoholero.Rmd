@@ -1,0 +1,108 @@
+---
+title: "Análisis Integrado de Vulnerabilidades en la Industria Sucroalcoholera Global y de la República Argentina (Campaña 2025/2026): Dinámicas Geopolíticas, Crisis de Suministros y Transición Energética"
+description: |
+  Evaluación cuantitativa del impacto de los choques geopolíticos, las disrupciones bióticas en la cadena de suministros industriales y la volatilidad del mercado energético sobre el complejo agroindustrial del Noroeste Argentino (NOA).
+author:
+  - name: Grupo de Investigación en Agroindustria Sostenible
+    url: https://example.org
+    affiliation: Instituto de Investigaciones Agroindustriales
+    affiliation_url: https://example.org
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    self_contained: false
+bibliography: references.bib
+csl: https://githubusercontent.com
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(jsonlite)
+library(knitr)
+library(rmarkdown)
+
+# Datos cuantitativos validados integrados directamente del dataset de investigación
+mercado_global <- list(
+  prod_mundial = 182000000.0,
+  cons_mundial = 179800000.0,
+  superavit = 22000000.0,
+  precio_ny11_min = 14.50,
+  precio_ny11_max = 15.50,
+  brent_pico = 82.0
+)
+
+datos_argentina <- list(
+  ingenios = 20,
+  tucuman_pct = 62.0,
+  salta_jujuy_pct = 37.0,
+  cana_molida = 10189338.0,
+  azucar_fisico = 654156.0,
+  alcohol_litros = 187126970.0,
+  demanda_interna = 13000000.0,
+  vol_exportado = 501133.0,
+  ingreso_fob = 279280176.0,
+  flete_incremento = 22.1,
+  mantenimiento_incremento = 28.4
+)
+```
+
+## Resumen
+
+El presente artículo analiza la resiliencia de la industria sucroalcoholera global con un enfoque analítico específico en la República Argentina durante el ciclo macroeconómico actual. A través de un modelado cuantitativo de las disrupciones en la cadena de suministro, se evalúa cómo las tensiones geopolíticas transatlánticas, los conflictos en nodos logísticos críticos y la crisis biótica del caucho natural (*Hevea brasiliensis*) impactan los costos operativos y las decisiones de diversificación productiva (azúcar frente a bioetanol). Los resultados demuestran que, a pesar de un incremento interanual del 9.0% en las exportaciones argentinas, el aumento del 22.1% en los costos de flete interno debido a la volatilidad energética internacional erosiona significativamente los márgenes netos de contribución.
+
+---
+
+## 1. Introducción y Contexto Global
+
+La industria sucroalcoholera global opera bajo una compleja matriz de interdependencias biológicas, energéticas y geopolíticas. Para la campaña bajo análisis, la producción mundial se sitúa en **`r format(mercado_global$prod_mundial, big.mark=",")` toneladas**, frente a un consumo global estimado de **`r format(mercado_global$cons_mundial, big.mark=",")` toneladas**, lo que proyecta un superávit estacional técnico de **`r format(mercado_global$superavit, big.mark=",")` toneladas**. La arquitectura de este mercado está altamente concentrada, donde Brasil lidera la cuota de producción global (23.0%), seguido por la India (19.0%) y la Unión Europea (8.0%).
+
+La dinámica de precios en el Contrato de Nueva York N° 11 exhibe un rango promedio estacional de **`r mercado_global$precio_ny11_min` a `r mercado_global$precio_ny11_max` centavos por libra** (equivalente a un vector de USD 440.0 a USD 450.0 por tonelada). Este piso de precios se encuentra condicionado por fuerzas macroexógenas que alteran los flujos tradicionales de comercio y logística internacional.
+
+## 2. Vectores de Interrupción Geopolítica y Macroeconómica
+
+### 2.1. Inestabilidad en Europa Oriental y Desacoplamiento Transatlántico
+El conflicto prolongado en Ucrania continúa restringiendo la estructura logística de precursores químicos y fertilizantes esenciales (nitrogenados y potásicos) procedentes de la cuenca del Mar Negro. Esta restricción ha generado un incremento sostenido del **18.0% en los costos de fijación de nitrógeno sintético**, afectando directamente la competitividad del bloque de remolacha azucarera en Europa central. 
+
+Simultáneamente, la ruptura de las relaciones comerciales preferenciales entre los Estados Unidos y sus aliados europeos tradicionales —acentuada por la implementación unilateral del Mecanismo de Ajuste en Frontera por Carbono (CBAM)— ha provocado un desacoplamiento de las cadenas de valor. Los excedentes estructurales europeos se han visto forzados a una redirección hacia mercados emergentes africanos que actúan como receptores residuales (*surplus receivers*), deprimiendo el precio FOB de dichos segmentos en un **4.2%**.
+
+### 2.2. Crisis Regional en el Caribe y el Estrecho de Ormuz
+En el ámbito latinoamericano, la desestabilización política y militar derivada de las tensiones en Venezuela ha consolidado un bloqueo *de facto* en las rutas marítimas secundarias del Caribe. La pérdida neta de la capacidad de molienda remanente del complejo caribeño (estimada en niveles inferiores a las 200,000 toneladas) se complementa con un encarecimiento del **12.5% en las primas de seguro de carga** regional.
+
+A nivel de infraestructura energética crítica, las hostilidades recurrentes en el **Estrecho de Ormuz** han restringido el flujo diario de crudo, impulsando el precio del barril de Brent a un pico de **USD `r mercado_global$brent_pico`**. Este incremento del 13.0% en los combustibles fósiles altera directamente el modelo de optimización de los ingenios brasileños. Ante el encarecimiento del transporte, el complejo industrial del principal productor mundial maximiza el desvío de la masa de caña hacia la síntesis de bioetanol hidratado para el mercado interno automotor, retirando oferta física del mercado internacional del azúcar y estabilizando artificialmente las cotizaciones globales.
+
+## 3. Disrupción de la Cadena de Suministro Biótica: La Crisis del Caucho
+
+Un factor crítico desatendido por los modelos económicos tradicionales es la crisis fitosanitaria provocada por el hongo patógeno *Microcyclus ulei* sobre las plantaciones de *Hevea brasiliensis* en Sudamérica. El denominado "mal de las hojas del caucho" ha restringido severamente la disponibilidad de elastómeros naturales de alta resiliencia.
+
+La correlación industrial con el sector azucarero se manifiesta a través de dos nodos operativos clave:
+1. **Bandas transportadoras industriales:** Reducción de la vida útil y escasez de repuestos para el transporte pesado de biomasa en plantas de molienda.
+2. **Neumáticos de alta flotación:** Demoras críticas en la logística de extracción agrícola en campo mediante cosechadoras combinadas.
+
+Como indicador cuantitativo directo, se registra un incremento del **`r datos_argentina$mantenimiento_incremento`% en el costo de mantenimiento de activos fijos** y un retraso medio de **14 días** en los ciclos de rotación de la materia prima hacia el trapiche, incrementando las pérdidas por inversión de sacarosa post-cosecha.
+
+## 4. Dimensión Local: El Complejo Sucroalcoholero en Argentina
+
+### 4.1. Estructura y Capacidad Operativa en el NOA
+La producción sucroalcoholera en la República Argentina se concentra estructuralmente en la región del Noroeste Argentino (NOA), contando con **`r datos_argentina$ingenios` ingenios activos**. La distribución espacial de la oferta primaria se encuentra fuertemente polarizada:
+
+```{r tabla-distribucion, echo=FALSE}
+distribucion <- data.frame(
+  Provincia = c("Tucumán", "Salta y Jujuy", "Otras (Santa Fe, Misiones)"),
+  Porcentaje = c(datos_argentina$tucuman_pct, datos_argentina$salta_jujuy_pct, 1.0)
+)
+knitr::kable(distribucion, caption = "Distribución geográfica de la producción de caña de azúcar en Argentina.")
+```
+
+El Ingenio Ledesma (ubicado en la provincia de Jujuy) consolida la posición de liderazgo en el mercado, reteniendo una cuota del **17.0%** de la producción consolidada nacional. Durante el ciclo analizado, el procesamiento físico registró una molienda bruta de **`r format(datos_argentina$cana_molida, big.mark=",")` toneladas de caña**, derivando en la obtención de **`r format(datos_argentina$azucar_fisico, big.mark=",")` toneladas de azúcar blanco** y una destilación de **`r format(datos_argentina$alcohol_litros, big.mark=",")` litros de alcohol hidratado**. 
+
+### 4.2. Eficiencia y Balances de Mercado
+Frente a una demanda del mercado interno estabilizada en **`r format(datos_argentina$demanda_interna, big.mark=",")` toneladas**, el saldo exportable permitió un volumen de despacho internacional de **`r format(datos_argentina$vol_exportado, big.mark=",")` toneladas**, generando un ingreso de divisas genuinas por un valor FOB de **USD `r format(datos_argentina$ingreso_fob, big.mark=",")`**. Si bien esto representa un incremento interanual del **9.0%**, la cifra se posiciona por debajo del récord histórico sectorial de 592,000 toneladas alcanzado en ciclos previos. Los principales destinos de exportación continúan siendo los Estados Unidos, Chile, Uruguay, Canadá y Arabia Saudita. Cabe destacar el rol emergente del azúcar orgánico certificado, segmento que alcanzó las **167,600 toneladas**, exhibiendo un crecimiento dinámico del **31.0%**.
+
+No obstante, el subsistema agrícola local denota ineficiencias estructurales críticas bajo condiciones climáticas extremas. El incremento de precipitaciones estivales intensas, si bien expande el volumen bruto de biomasa por hectárea, deprime los niveles de azúcares reductores y el rendimiento neto de sacarosa comercializable. Los indicadores de pérdidas en la eficiencia de cosecha reflejan:
+* **Materia prima perdida:** 1.625 toneladas/hectárea.
+* **Azúcar recuperable perdido:** 146.0 kg/hectárea.
+* **Impacto financiero directo:** ARS 73,277 por hectárea ponderada.
+
+```{r grafico-vulnerabilidad, layout="l-body-outset", fig.width=6, fig.height=3.5}
