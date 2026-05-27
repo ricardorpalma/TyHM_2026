@@ -102,7 +102,7 @@ Materiales clase 7 de Mayo [Link](http://themys.sid.uncu.edu.ar/rpalma/Industria
 * Corrección y agregado de claves con notas atómicas de onsidian
 * Ejemplo de Trabajo de Investigación <http://themys.sid.uncu.edu.ar/rpalma/Industrial/Sucroalcoholera/articulo_sucroalcoholera_distill.html>
 
-**Grupo Anfitrion** Todos los grupos que registran ausente en las clases anteriores
+**Grupo Anfitrion** Mate Amargo - Avogradro Toast
 
 
 *Listado de Temas de sectores industriles que han elegido los grupos.*
