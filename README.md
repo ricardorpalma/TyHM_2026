@@ -26,7 +26,7 @@ Mediación de Materiales TyHM 2026
 | **JIGSA** | <https://github.com/segea86/TyHM_Modulo1> |.	Marcia Benegas ,.	Gonzalez Gonzalo, Egea	Sebastián, -	Simonovich Jael Gisel ,  	Juan Ignacio Ristagno   | M1 |
 | **Joulie Faraday** | <https://github.com/emanuel-gomez-rastrilla/entregamodulo_1>  | Mauricio Jesús Mansur, Emanuel Gomez, Mattia Malnis  Valentino Giampietri,  Ana Clara Godoy | M1 - M2 |
 | **KPI Rojos** | <http://github.com/fdelpopolos/Entrega> | Villalba	Ezequiel Del Popolo	Francisco Smovir	Pablo .	Matias Salinas ,Nicotra Amparo  |  |
-| **Las valientes**  | <https://github.com/Juananorton/Entrega>  | .	Paulina Maselli -	Rosario .	Angelica Collazo  	Juana .	Angelina, Clarisse Raingeard |   |
+| **Las valientes**  | <https://github.com/Juananorton/Entrega>  | Paulina Maselli -	Rosario .	Angelica Collazo  	Juana .	Angelina, Clarisse Raingeard | M1  |
 | **Les Chats** | <https://github.com/mercierchloe/entrega> | jiji	Andrés , Buttazzoni Gonzalez 	Juan Francisco , 	Lucas Manuel Baena , mercier	chloé , -	Francisco Avallone | M1- M2 Falta Rmd y Slidy |
 | **Los Inductores** | <http://github.com/Caetana01/MODULO-1> | A	Franco Manassero, Leo Crimi 	Caetana Electra, García 	Leslie Rocío , Ludueña 	Alondra Pilar ,.	Joaquin Bressan ,Don	Guillermo Ignacio | M1  |
 | **Los Iraníes**  | <https://github.com/pedro-farjo/Entrega_Modulo1> | 	Ignacio March, 	Renzo Martini, Vega	Lucas,	Pedro Farjo ,Silioni	Luca, 	Enzo carbone  | M1 |
