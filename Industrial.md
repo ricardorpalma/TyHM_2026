@@ -4,24 +4,20 @@
 
 ## Actividades
 
-4 de Marzo ->  markdown creación de paginas de github individual y link a página del grupo. **Módulo 1**
+**4 de Marzo** ->  markdown creación de paginas de github individual y link a página del grupo. **Módulo 1**
 
-11 de Marzo -> colab github tablas, incrustar imágenes, html w3c, construcción de landing page
+**11 de Marzo** -> colab github tablas, incrustar imágenes, html w3c, construcción de landing page
 
-25 de Marzo -> Redacción informe módulo 1 con plantilla de la cátedra  [demo](https://www.overleaf.com/read/gtcnwjpqfgzx#0ea472) - Inicio del módulo 2
+**25 de Marzo** -> Redacción informe módulo 1 con plantilla de la cátedra  [demo](https://www.overleaf.com/read/gtcnwjpqfgzx#0ea472) - Inicio del módulo 2
 
-1 de Abril - Algoritmos  -  Grupo anfitrion Grupo Alfa **Módulo 2**
+**1 de Abril** - Algoritmos  -  Grupo anfitrion Grupo Alfa **Módulo 2**
 
-8 de Abril Algoritmos Gaus Fibonacci TicToc <http://themys.sid.uncu.edu.ar/rpalma/TyHM/Programacion_R/>
+**8 de Abril** Algoritmos Gaus Fibonacci TicToc <http://themys.sid.uncu.edu.ar/rpalma/TyHM/Programacion_R/>
 
-15 de Abril eficiencia en algoritmos graficos violin presentación de los grupos
+**15 de Abril** eficiencia en algoritmos graficos violin presentación de los grupos
 
 Grupos anfitriones: 🚩 Consejo de Sabios - 🏳️‍🟩 Error 404 -  🇸🇴 Dibala a Boca
 
-
-
-
-<hr> 
 
 **15 de Abril** Benchmarking de Algoritmos y Medioides (kmeans)
 
@@ -36,7 +32,6 @@ Realizar una presentación en R de todo el contenido del módulo 2 - evaluación
 Los grupos anfitriones serán los responsables de organizar la lista de expositores y verificar que expongan en 10 minutos.
 
 
-<hr>
 
 **22 de Abril** -> Simulación por Eventos Discretos **Módulo 3**
 
@@ -50,9 +45,9 @@ Módulo 3 **Simulación por Eventos Discretos**
 
 <https://nube.ingenieria.uncuyo.edu.ar/f/17250434>
 
-**Grupos anfitriones:** 🚩 KPI Rojos - 🏳️‍🟩 Las Valiente -  🇸🇴 Les Chats - 🏳️‍🟩 Los Inductores
+**Grupos anfitriones:** 🚩 ~~KPI Rojos~~ - 🏳️‍🟩 Las Valiente -  🇸🇴 ~~Les Chats~~ - 🏳️‍🟩 Los Inductores
 
-<hr>
+
 
 **29 de Abril** Ejercicios DEVS
 Referencias Bibliogŕaficas [link](https://www.amazon.com/-/es/Modelizaci%C3%B3n-discretos-simulaci%C3%B3n-procesos-decisi%C3%B3n/dp/6207528417/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3SSLQKKIFB1KC&dib=eyJ2IjoiMSJ9.EErP_x1DN8irL9cHG1t10ONVp-HYbNHX-JMu_hn2PnLGjHj071QN20LucGBJIEps.n4vp8sW0LTulQxw11OgoPLd976bnz59-FGKJ5Ont8OQ&dib_tag=se&keywords=simulaci%C3%B3n+por+eventos+discretos&qid=1777478925&sprefix=simulaci%C3%B3n+por+evnetos+discreto%2Caps%2C400&sr=8-1)
@@ -82,14 +77,14 @@ Materiales clase 7 de Mayo [Link](http://themys.sid.uncu.edu.ar/rpalma/Industria
 
  **Grupos anfitriones:** 🎌 ~~Mate Amargo~~ 🕞-  ~~Modern Tech~~ 🕞-  🇸🇴 Pipu's 🥈
 
-<hr> 
+ 
 
 **20 de Mayo**
 
 * Cierre módulo 3
 * Inicio módulo 4 - Seminario de Investigación*
 
- **Grupos anfitriones:** 🎌 Sinergia 5S 🕞-  Técnicas 2 -  ZZZ
+ **Grupos anfitriones:** 🎌 ~~Sinergia 5S~~ 🕞-  ~~Técnicas 2~~ -  ZZZ
   
   Materiales para los anfitriones
    <https://github.com/ricardorpalma/TyHM_2026/blob/main/Seminario%20Investigacion.zip>
@@ -98,6 +93,19 @@ Materiales clase 7 de Mayo [Link](http://themys.sid.uncu.edu.ar/rpalma/Industria
    * <https://ricardorpalma.github.io/Marca_2026/>
  
 <hr>
+
+**27 de Mayo**  Seminario de Investigación parte 2
+
+* Repaso de las actividades de la clase anterior (preguntas)
+* Revisión de la plantilla Distill
+* Revisión de archivo .json
+* Corrección y agregado de claves con notas atómicas de onsidian
+* Ejemplo de Trabajo de Investigación <http://themys.sid.uncu.edu.ar/rpalma/Industrial/Sucroalcoholera/articulo_sucroalcoholera_distill.html>
+
+**Grupo Anfitrion** Todos los grupos que registran ausente en las clases anteriores
+
+<hr>
+
 ## Listado
 
 
