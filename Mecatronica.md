@@ -138,8 +138,8 @@ Dado que operás con equipos de radio, te interesará monitorear los siguientes 
 *  Abrir puertos Linux con Ngrok <https://ngrok.com/>
 *  Listado de SDR phantom <https://sdr-list.xyz/>
 *  Verificar covertura de frecuencias - ver
-    *  NovaSDR
-    *  UberSDR
+  *  NovaSDR
+  *   UberSDR
 
 
 **27 de Mayo**
@@ -148,8 +148,8 @@ Dado que operás con equipos de radio, te interesará monitorear los siguientes 
 * Preparación para el SCRUM Final
 * Prueba del RTL-SDR en el SERVIDOR con n-grok.
 * Tareas pendientes varias.
-      * Prueba San Juan
-      * Mástil de Moxon
+  * Prueba San Juan
+  * Mástil de Moxon
   
   
 ## Listado de alumnos
