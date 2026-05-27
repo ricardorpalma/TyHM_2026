@@ -140,7 +140,17 @@ Dado que operás con equipos de radio, te interesará monitorear los siguientes 
 *  Verificar covertura de frecuencias - ver
     *  NovaSDR
     *  UberSDR
-Revisión de links a Githubs individuales 
+
+
+**27 de Mayo**
+
+* Sigue pendiente la **Revisión de links a Githubs individuales** 
+* Preparación para el SCRUM Final
+* Prueba del RTL-SDR en el SERVIDOR con n-grok.
+* Tareas pendientes varias.
+      * Prueba San Juan
+      * Mástil de Moxon
+  
   
 ## Listado de alumnos
 
