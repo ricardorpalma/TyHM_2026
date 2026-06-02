@@ -20,7 +20,7 @@ Mediación de Materiales TyHM 2026
 | **Calculito** | <https://github.com/GuillermoPellegrini1/Entrega> | Guillermo Damián ,Fabricio, Tiago Sánchez, Mateo Ambrogetti ,Victoria Bautista   | M1 Faltan trabajos |
 | **Clasica y moderna** | https://github.com/santiago-perezvicchi10/Entrega> | María Guadalupe ,Sfragara	Luciano ,Zoia	Julián ,.	Joaquín , .	Santiago Perez Vicchi  | M1 - M2 -M3 |
 | **Concejo de sabios** | <https://github.com/joaquinatorr/entrega> |	Pedro Simón,	Joaquín Spongia, Facundo Perea,  	Joaquín Martinez | M1 -M2 - M3 |
-| **Dybala a Boca** | <https://github.com/Santiago-Pena2003/Entrega-Modulo-1> | Santiago Joaquín Peña, Sebastian Dimarco ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  | M1 - Sigen faltando las entregas en las carpetas individuales de cada alumno | 
+| **Dybala a Boca** | <https://github.com/Santiago-Pena2003/Entrega-Modulo-1> | Santiago Joaquín Peña, Sebastian Dimarco ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  | M1 - Siguen faltando las entregas en las carpetas individuales de cada alumno | 
 | **Error 404** |  <https://github.com/ezequiel-choqueaguirre/Error-404> | Lisandro Ezequiel Martin , Tadeo Gabriel, Josefina Perez, Blanco Nicolás, Marco Boero  | M1 - M2 Faltan RMD y presentacion Slidy  |
 | **Gorditos Siuu** | <https://github.com/ignaciojuann07/Grupo-tecnicas-> | 	Juan González Ignacio ,	Pilar Zuñiga , Euillades	Santiago , Huenchuguala	Joaquin ,.	Celeste Herzóg | M1 - Modulo 2 faltan Rmd y slidy | 
 | **JIGSA** | <https://github.com/segea86/TyHM_Modulo1> |.	Marcia Benegas ,.	Gonzalez Gonzalo, Egea	Sebastián, -	Simonovich Jael Gisel ,  	Juan Ignacio Ristagno   | M1 |
