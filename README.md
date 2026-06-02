@@ -12,15 +12,15 @@ Mediación de Materiales TyHM 2026
 
 |Grupo de Trabajo | Github de entrega  | Rúbricas | Aprobado |
 |-----------------|------------------------------------------------------------|-------------|----|
-| **Actitud positiva** :) | <https://github.com/Luciano-Migoni/Entregas> | Albarracin Gianella Sfrede Genaro ,Ignacio Perez , Luciano Migoni |  M1 |
-| **Aleph** | <https://github.com/veratomas/entrega-modulo-1> | Tomás Santiago ,Tomás Francisco Cabrera Sendra, Juan Marcos Aguirre, Luciano Correa Pol, Enzo Scala  | M1 - M2 (Solo Aguirre)| 
-| **Alpha** | <http://github.com/RubenCruz0703/modulo1> | Matías Rosa ,Yesica Elizabeth , Simón Manuel ,Chiara Palmero,Ruben Exequiel Cruz |  M1 |  
-| **Avogadro toast** | <https://github.com/lucia-salamone/Entrega_Modulo_1> | Pilar Mujica, Lucia Salamone ,Rocio Martinez, * Valentina?  , Sara Kemelmajer, Caterina DiNnocenzo, Lucas Segura, Matias Rosa | M1 - M2 |
-| **Budín de banana** | <https://github.com/Mili5555/Entrega1> | Dominguez Galdame	Lucía Constanza, Bonita	Milagros Farina,.	María Romero ,Valle 	Julieta , Cavalli Hilario | M1 - M2 |
+| **Actitud positiva** :) | <https://github.com/Luciano-Migoni/Entregas> | Albarracin Gianella Sfrede Genaro ,Ignacio Perez , Luciano Migoni |  M1-M2 |
+| **Aleph** | <https://github.com/veratomas/entrega-modulo-1> | Tomás Santiago ,Tomás Francisco Cabrera Sendra, Juan Marcos Aguirre, Luciano Correa Pol, Enzo Scala  | M1 - M2 - M3| 
+| **Alpha** | <http://github.com/RubenCruz0703/modulo1> | Matías Rosa ,Yesica Elizabeth , Simón Manuel ,Chiara Palmero,Ruben Exequiel Cruz |  M1 - M2 |  
+| **Avogadro toast** | <https://github.com/lucia-salamone/Entrega_Modulo_1> | Pilar Mujica, Lucia Salamone ,Rocio Martinez, * Valentina?  , Sara Kemelmajer, Caterina DiNnocenzo, Lucas Segura, Matias Rosa | M1 - M2 - M3|
+| **Budín de banana** | <https://github.com/Mili5555/Entrega1> | Dominguez Galdame	Lucía Constanza, Bonita	Milagros Farina,.	María Romero ,Valle 	Julieta , Cavalli Hilario | M1 - M2 - M3|
 | **Calculito** | <https://github.com/GuillermoPellegrini1/Entrega> | Guillermo Damián ,Fabricio, Tiago Sánchez, Mateo Ambrogetti ,Victoria Bautista   | M1 Faltan trabajos |
-| **Clasica y moderna** | https://github.com/santiago-perezvicchi10/Entrega> | María Guadalupe ,Sfragara	Luciano ,Zoia	Julián ,.	Joaquín , .	Santiago Perez Vicchi  | M1 - M2 |
-| **Concejo de sabios** | <https://github.com/joaquinatorr/entrega> |	Pedro Simón,	Joaquín Spongia, Facundo Perea,  	Joaquín Martinez | M1 |
-| **Dybala a Boca** | <https://github.com/Santiago-Pena2003/Entrega-Modulo-1> | Santiago Joaquín Peña, Sebastian Dimarco ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  | M1 no aprobado - No utilizar link directo a RStudio | 
+| **Clasica y moderna** | https://github.com/santiago-perezvicchi10/Entrega> | María Guadalupe ,Sfragara	Luciano ,Zoia	Julián ,.	Joaquín , .	Santiago Perez Vicchi  | M1 - M2 -M3 |
+| **Concejo de sabios** | <https://github.com/joaquinatorr/entrega> |	Pedro Simón,	Joaquín Spongia, Facundo Perea,  	Joaquín Martinez | M1 -M2 - M3 |
+| **Dybala a Boca** | <https://github.com/Santiago-Pena2003/Entrega-Modulo-1> | Santiago Joaquín Peña, Sebastian Dimarco ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  | M1  | 
 | **Error 404** |  <https://github.com/ezequiel-choqueaguirre/Error-404> | Lisandro Ezequiel Martin , Tadeo Gabriel, Josefina Perez, Blanco Nicolás, Marco Boero  | M1 - M2 Faltan RMD y presentacion Slidy  |
 | **Gorditos Siuu** | <https://github.com/ignaciojuann07/Grupo-tecnicas-> | 	Juan González Ignacio ,	Pilar Zuñiga , Euillades	Santiago , Huenchuguala	Joaquin ,.	Celeste Herzóg | M1 - Modulo 2 faltan Rmd y slidy | 
 | **JIGSA** | <https://github.com/segea86/TyHM_Modulo1> |.	Marcia Benegas ,.	Gonzalez Gonzalo, Egea	Sebastián, -	Simonovich Jael Gisel ,  	Juan Ignacio Ristagno   | M1 |
