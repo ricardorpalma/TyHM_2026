@@ -84,7 +84,7 @@ Materiales clase 7 de Mayo [Link](http://themys.sid.uncu.edu.ar/rpalma/Industria
 * Cierre módulo 3
 * Inicio módulo 4 - Seminario de Investigación*
 
- **Grupos anfitriones:** 🎌 ~~Sinergia 5S~~ 🕞-  ~~Técnicas 2~~ -  ZZZ
+ **Grupos anfitriones:** 🎌 ~~Sinergia 5S~~ 🕞-  Técnicas 2 -  ZZZ
   
   Materiales para los anfitriones
    <https://github.com/ricardorpalma/TyHM_2026/blob/main/Seminario%20Investigacion.zip>
