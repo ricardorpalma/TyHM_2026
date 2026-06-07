@@ -14,9 +14,9 @@ Mediación de Materiales TyHM 2026
 |-----------------|------------------------------------------------------------|-------------|----|
 | **Actitud positiva** :) | <https://github.com/Luciano-Migoni/Entregas> | Albarracin Gianella Sfrede Genaro ,Ignacio Perez , Luciano Migoni |  M1-M2-M3-M4 |
 | **Aleph** | <https://github.com/veratomas/entrega-modulo-1> | Tomás Santiago ,Tomás Francisco Cabrera Sendra, Juan Marcos Aguirre, Luciano Correa Pol, Enzo Scala  | M1 - M2 - M3 - M4 (Luciano Correa Pol, Enzo Scala, Tomás Vera Tomás Cabrera, tienen repositorio vacío.)| 
-| **Alpha** | <http://github.com/RubenCruz0703/modulo1> | Matías Rosa ,Yesica Elizabeth , Simón Manuel ,Chiara Palmero,Ruben Exequiel Cruz |  M1 - M2 |  
-| **Avogadro toast** | <https://github.com/lucia-salamone/Entrega_Modulo_1> | Pilar Mujica, Lucia Salamone ,Rocio Martinez, * Valentina?  , Sara Kemelmajer, Caterina DiNnocenzo, Lucas Segura, Matias Rosa | M1 - M2 - M3|
-| **Budín de banana** | <https://github.com/Mili5555/Entrega1> | Dominguez Galdame	Lucía Constanza, Bonita	Milagros Farina,.	María Romero ,Valle 	Julieta , Cavalli Hilario | M1 - M2 - M3|
+| **Alpha** | <http://github.com/RubenCruz0703/modulo1> | Matías Rosa ,Yesica Elizabeth , Simón Manuel ,Chiara Palmero,Ruben Exequiel Cruz |  M1 - M2 - M3 - M4 |  
+| **Avogadro toast** | <https://github.com/lucia-salamone/Entrega_Modulo_1> | Pilar Mujica, Lucia Salamone ,Rocio Martinez, * Valentina?  , Sara Kemelmajer, Caterina DiNnocenzo, Lucas Segura, Matias Rosa | M1 - M2 - M3 M4|
+| **Budín de banana** | <https://github.com/Mili5555/Entrega1> | Dominguez Galdame	Lucía Constanza, Bonita	Milagros Farina,.	María Romero ,Valle 	Julieta , Cavalli Hilario | M1 - M2 - M3 -M4|
 | **Calculito** | <https://github.com/GuillermoPellegrini1/Entrega> | Guillermo Damián ,Fabricio, Tiago Sánchez, Mateo Ambrogetti ,Victoria Bautista   | M1 Faltan trabajos |
 | **Clasica y moderna** | https://github.com/santiago-perezvicchi10/Entrega> | María Guadalupe ,Sfragara	Luciano ,Zoia	Julián ,.	Joaquín , .	Santiago Perez Vicchi  | M1 - M2 -M3 |
 | **Concejo de sabios** | <https://github.com/joaquinatorr/entrega> |	Pedro Simón,	Joaquín Spongia, Facundo Perea,  	Joaquín Martinez | M1 -M2 - M3 |
