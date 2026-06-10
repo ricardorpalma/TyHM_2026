@@ -23,14 +23,14 @@ Mediación de Materiales TyHM 2026
 | **Dybala a Boca** | <https://github.com/Santiago-Pena2003/Entrega-Modulo-1> | Santiago Joaquín Peña, Sebastian Dimarco ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  | M1 - M2 - M3 - M4 | 
 | **Error 404** |  <https://github.com/ezequiel-choqueaguirre/Error-404> | Lisandro Ezequiel Martin , Tadeo Gabriel, Josefina Perez, Blanco Nicolás, Marco Boero  | M1 - M2 - M3 -M4  |
 | **Gorditos Siuu** | <https://github.com/ignaciojuann07/Grupo-tecnicas-> | 	Juan González Ignacio ,	Pilar Zuñiga , Euillades	Santiago , Huenchuguala	Joaquin ,.	Celeste Herzóg | M1 - M2 - M3 - M4 | 
-| **JIGSA** | <https://github.com/segea86/TyHM_Modulo1> |.	Marcia Benegas ,.	Gonzalez Gonzalo, Egea	Sebastián, -	Simonovich Jael Gisel ,  	Juan Ignacio Ristagno   | M1 - M4 Falta el archivo S8 y todos los repositorios de los alumnos estan vacíos |
+| **JIGSA** | <https://github.com/segea86/TyHM_Modulo1> |.	Marcia Benegas ,.	Gonzalez Gonzalo, Egea	Sebastián, -	Simonovich Jael Gisel ,  	Juan Ignacio Ristagno   | M1 - M2 - M3 - M4 |
 | **Joulie Faraday** | <https://github.com/emanuel-gomez-rastrilla/entregamodulo_1>  | Mauricio Jesús Mansur, Emanuel Gomez, Mattia Malnis  Valentino Giampietri,  Ana Clara Godoy | M1 - M2 - M3 - M4 |
-| **KPI Rojos** | <http://github.com/fdelpopolos/Entrega> | Villalba	Ezequiel Del Popolo	Francisco Smovir	Pablo .	Matias Salinas ,Nicotra Amparo  | M1 M2 M3 - M4 |
+| **KPI Rojos** | <http://github.com/fdelpopolos/Entrega> | Villalba	Ezequiel Del Popolo	Francisco Smovir	Pablo .	Matias Salinas ,Nicotra Amparo  | M1 - M2 - M3 - M4 |
 | **Las valientes**  | <https://github.com/Juananorton/Entrega>  | Paulina Maselli -	Rosario .	Angelica Collazo  	Juana .	Angelina, Clarisse Raingeard | M1 - M2 - M3 - M4 |
 | **Les Chats** | <https://github.com/mercierchloe/entrega> | jiji	Andrés , Buttazzoni Gonzalez 	Juan Francisco , 	Lucas Manuel Baena , mercier	chloé , -	Francisco Avallone | M1- M2- M3 - M4 |
 | **Los Inductores** | <http://github.com/Caetana01/MODULO-1> | A	Franco Manassero, Leo Crimi 	Caetana Electra, García 	Leslie Rocío , Ludueña 	Alondra Pilar ,.	Joaquin Bressan ,Don	Guillermo Ignacio | M1 - M2 -M3 -M4 |
 | **Los Iraníes**  | <https://github.com/pedro-farjo/Entrega_Modulo1> | 	Ignacio March, 	Renzo Martini, Vega	Lucas,	Pedro Farjo ,Silioni	Luca, 	Enzo carbone  | M1 - M2 -M3 -M4|
-| **Los Palmeras** | <https://github.com/baucalderon-2026/ENTREGA> | * Luciano Figuera, * Lisandro Cerdán , * Alejo De Miguel , Bautista Calderón, Nathan Graff, Facundo Moreschi | M1  |
+| **Los Palmeras** | <https://github.com/baucalderon-2026/ENTREGA> | * Luciano Figuera, * Lisandro Cerdán , * Alejo De Miguel , Bautista Calderón, Nathan Graff, Facundo Moreschi | M1 - M2 - M3 - M4 |
 | **Los Técnicos** | <https://github.com/cami2722s-sys/Modulo_1> | Camila, Maite Julieta, Ignacio Coronado ,  Franca Bielsa , Rocío Alarcón| M1 - M2 - M3 -M4| 
 | **Los $\pi$** | <https://github.com/Emiliano-Ochoa/Entrega-Modulo1> | Tiago Friscolanti, Santiago Jara, Gerardo , Facundo Romero, Emiliano Ochoa | M1 - M2|- M4 - M4
 | **Mate Amargo**  | <https://github.com/allaymaria/Entrega-Modulo-1> | Emiliano Daniel Jaime Ayosa , María Mashael Allay Alfonso , Estefania Funes Brown , Nancy Noemi Sara Fajardo, Zaragoza Matias | M1 - M2 -M3 -M4 |
