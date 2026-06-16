@@ -25,7 +25,7 @@ Mediación de Materiales TyHM 2026
 | **Gorditos Siuu** | <https://github.com/ignaciojuann07/Grupo-tecnicas-> | 	Juan González Ignacio ,	Pilar Zuñiga , Euillades	Santiago , ~~Mecatronica Huenchuguala	Joaquin~~ ,.	Celeste Herzóg | M1 - M2 - M3 - M4 | 
 | **JIGSA** | <https://github.com/segea86/TyHM_Modulo1> |.	<mark>Marcia Benegas</mark> ,.	Gonzalez Gonzalo, <mark>Egea	Sebastián</mark>, -	Simonovich Jael Gisel ,  <mark>	Juan Ignacio Ristagno </mark>   | M1 - M2 - M3 - M4 |
 | **Joulie Faraday** | <https://github.com/emanuel-gomez-rastrilla/entregamodulo_1>  | Mauricio Jesús Mansur, Emanuel Gomez, Mattia Malnis  Valentino Giampietri,  Ana Clara Godoy | M1 - M2 - M3 - M4 |
-| **KPI Rojos** | <http://github.com/fdelpopolos/Entrega> | Villalba	Ezequiel Del Popolo	Francisco Smovir	Pablo .	Matias Salinas ,Nicotra Amparo  | M1 - M2 - M3 - M4 |
+| **KPI Rojos** | <http://github.com/fdelpopolos/Entrega> | <mark>Villalba</mark>	Ezequiel Del Popolo	Francisco Smovir	Pablo .	Matias Salinas ,<mark>Nicotra Amparo</mark>  | M1 - M2 - M3 - M4 |
 | **Las valientes**  | <https://github.com/Juananorton/Entrega>  | Paulina Maselli -	Rosario .	Angelica Collazo  	Juana .	Angelina, Clarisse Raingeard | M1 - M2 - M3 - M4 |
 | **Les Chats** | <https://github.com/mercierchloe/entrega> | jiji	Andrés , Buttazzoni Gonzalez 	Juan Francisco , 	Lucas Manuel Baena , mercier	chloé , -	Francisco Avallone , Valentina Bevacqua| M1- M2- M3 - M4 |
 | **Los Inductores** | <http://github.com/Caetana01/MODULO-1> | A	Franco Manassero, Leo Crimi 	Caetana Electra, García 	Leslie Rocío , Ludueña 	Alondra Pilar ,.	Joaquin Bressan ,Don	Guillermo Ignacio | M1 - M2 -M3 -M4 |
