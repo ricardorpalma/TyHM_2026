@@ -33,7 +33,7 @@ Mediación de Materiales TyHM 2026
 | **Los Palmeras** | <https://github.com/baucalderon-2026/ENTREGA> | * Luciano Figuera, * Lisandro Cerdán , * Alejo De Miguel , <mark>Bautista Calderón</mark>, Nathan Graff, Facundo Moreschi | M1 - M2 - M3 - M4 |
 | **Los Técnicos** | <https://github.com/cami2722s-sys/Modulo_1> | Camila, Maite Julieta, Ignacio Coronado ,  Franca Bielsa , Rocío Alarcón, <mark>Sotelo Camila Noelia </mark>| M1 - M2 - M3 -M4| 
 | **Los $\pi$** | <https://github.com/Emiliano-Ochoa/Entrega-Modulo1> | Tiago Friscolanti, Santiago Jara, Gerardo , Facundo Romero, Emiliano Ochoa | M1 - M2 - M3 - M4
-| **Mate Amargo**  | <https://github.com/allaymaria/Entrega-Modulo-1> | Emiliano Daniel Jaime Ayosa , María Mashael Allay Alfonso , Estefania Funes Brown , Nancy Noemi Sara Fajardo, Zaragoza Matias | M1 - M2 -M3 -M4 |
+| **Mate Amargo**  | <https://github.com/allaymaria/Entrega-Modulo-1> | <mark>Emiliano Daniel Jaime Ayosa</mark> , María Mashael Allay Alfonso , <mark>Estefania Funes Brown </mark>, <mark>Nancy Noemi Sara Fajardo</mark>, <mark>Zaragoza Matias</mark> | M1 - M2 -M3 -M4 |
 | **Modern Tech** | <http://github.com/sofi-blas/Entrega-Modulo1> | Eugenio Alastra ,Sofía Blas Delpozzi, Rocio Anabel, Bianca Nicole Lombardo, Camila Sepulveda, Luciana Gallina| M1 - M2 - M3 - M4 |
 | **Pipu’s**  | <https://github.com/IAN3CANADAS/ENTREGAMODULO1> | Bautista, Ian, Mateo isgro, Joaquin, <lucas Salvo, Nico La Rocca | M1 - M2 - M3 - M4|
 | Sinergia 5S | <https://github.com/delfinagomez110-design> | Delfina Gomez, Scaccia 	Octavio, Benedetti	Gino , .	Rocío Andre , 	Sol Florindo ,Pereyra 	Martina  |  M1 - M2 - M3 - M4 |
