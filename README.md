@@ -18,8 +18,7 @@ Mediación de Materiales TyHM 2026
 | **Avogadro toast** | <https://github.com/lucia-salamone/Entrega_Modulo_1> | Pilar Mujica, Lucia Salamone ,Rocio Martinez, * Valentina?  , Sara Kemelmajer, Caterina DiNnocenzo, Lucas Segura, Matias Rosa | M1 - M2 - M3 M4|
 | **Budín de banana** | <https://github.com/Mili5555/Entrega1> | Dominguez Galdame	Lucía Constanza, Bonita	Milagros Farina,.	María Romero ,Valle 	Julieta , Cavalli Hilario | M1 - M2 - M3 -M4|
 | **Calculito** | <https://github.com/GuillermoPellegrini1/Entrega> | Guillermo Damián ,Fabricio, <mark>Tiago Sánchez</mark>, Mateo Ambrogetti ,Victoria Bautista   | M1 - M2 - M3 - M4 |
-| **Clasica y moderna** | <https://github.com/santiago-perezvicchi10/Entrega> | Santiago Perez Vicchi,Maria Guadalupe Aguirre Simionato ,Luciano sfragara , <mark>Joaquin Bordon</mark> Julian Zoia,
-Ignacio Molina  | M1 - M2 -M3 -M4 |
+| **Clasica y moderna** | <https://github.com/santiago-perezvicchi10/Entrega> | Santiago Perez Vicchi,Maria Guadalupe Aguirre Simionato ,Luciano sfragara , <mark>Joaquin Bordon</mark> Julian Zoia, Ignacio Molina  | M1 - M2 -M3 -M4 |
 | **Concejo de sabios** | <https://github.com/joaquinatorr/entrega> |	Pedro Simón,	Joaquín Spongia, Facundo Perea,  	Joaquín Martinez | M1 -M2 - M3 - M4 |
 | **Dybala a Boca** | <https://github.com/Santiago-Pena2003/Entrega-Modulo-1> | Santiago Joaquín Peña, Sebastian Dimarco ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  | M1 - M2 - M3 - M4 | 
 | **Error 404** |  <https://github.com/ezequiel-choqueaguirre/Error-404> | Lisandro Ezequiel Martin , Tadeo Gabriel, Josefina Perez, Blanco Nicolás, Marco Boero  | M1 - M2 - M3 -M4  |
