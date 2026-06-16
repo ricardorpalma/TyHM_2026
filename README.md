@@ -37,7 +37,7 @@ Mediación de Materiales TyHM 2026
 | **Modern Tech** | <http://github.com/sofi-blas/Entrega-Modulo1> | Eugenio Alastra ,Sofía Blas Delpozzi, Rocio Anabel, Bianca Nicole Lombardo, Camila Sepulveda, Luciana Gallina| M1 - M2 - M3 - M4 |
 | **Pipu’s**  | <https://github.com/IAN3CANADAS/ENTREGAMODULO1> | <mark>Bautista, Ian</mark>, Mateo isgro, <Mark>Joaquin Bresci</mark>, <mark>Lucas Salvo</mark>, Nico La Rocca | M1 - M2 - M3 - M4|
 | **Sinergia 5S** | <https://github.com/delfinagomez110-design> | Delfina Gomez, Scaccia 	Octavio, Benedetti	Gino , .	Rocío Andre , 	Sol Florindo ,Pereyra 	Martina  |  M1 - M2 - M3 - M4 |
-| **Tecnica2**  | <https://github.com/JuanALuna/Entrega> | * Juan Manuel, * Ariana Galli, Leandro Olguin , Juan Luna , Luciana Noriega | M1 - M2 - M3 - M4 |
+| **Tecnica2**  | <https://github.com/JuanALuna/Entrega> | <mark>Cardenas Juan Manuel</mark>, *Ariana Galli, Leandro Olguin , Juan Luna , Luciana Noriega | M1 - M2 - M3 - M4 |
 | **ZZZ** | https://github.com/bautistapons/entregass | Rocio Gomez, Maria Celina Lopez, Maia Ortiz, Bautista Pons |  M1 - M2 - M3 - M4 |
 | **$\lambda$** | <https://github.com/Nicolas-Sarmiento-Lugones/Entregas> | .	Juan Martín, Notti	Joaquin , Peiro	Francisco, .	Nicolas Sarmiento , .	Raimundo Glasner | M1 -M2 -M3 - M4 |
 | **Los Pookies** | <https://github.com/franallamand/Entrega_Modulo_1> | Facundo Dip, Pedro Elizalde, Mateo Notti, Francisco Allamand | M1 -M2 - M3 - M4|
