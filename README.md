@@ -29,7 +29,7 @@ Mediación de Materiales TyHM 2026
 | **Las valientes**  | <https://github.com/Juananorton/Entrega>  | Paulina Maselli -	Rosario .	Angelica Collazo  	Juana .	Angelina, Clarisse Raingeard | M1 - M2 - M3 - M4 |
 | **Les Chats** | <https://github.com/mercierchloe/entrega> | jiji	Andrés , Buttazzoni Gonzalez 	Juan Francisco , 	Lucas Manuel Baena , mercier	chloé , -	Francisco Avallone , Valentina Bevacqua| M1- M2- M3 - M4 |
 | **Los Inductores** | <http://github.com/Caetana01/MODULO-1> | A	Franco Manassero, <mark>Leo Crimi 	Caetana</mark> Electra, García 	Leslie Rocío , Ludueña 	Alondra Pilar ,.	Joaquin Bressan ,Don	Guillermo Ignacio | M1 - M2 -M3 -M4 |
-| **Los Iraníes**  | <https://github.com/pedro-farjo/Entrega_Modulo1> | 	Ignacio March, 	Renzo Martini, Vega	Lucas,	Pedro Farjo ,Silioni	Luca, 	Enzo carbone  | M1 - M2 -M3 -M4|
+| **Los Iraníes**  | <https://github.com/pedro-farjo/Entrega_Modulo1> | <mark>	Ignacio March </mark> , 	Renzo Martini, Vega	Lucas,	Pedro Farjo ,Silioni	Luca, <mark>	Enzo carbone </mark> | M1 - M2 -M3 -M4|
 | **Los Palmeras** | <https://github.com/baucalderon-2026/ENTREGA> | * Luciano Figuera, * Lisandro Cerdán , * Alejo De Miguel , Bautista Calderón, Nathan Graff, Facundo Moreschi | M1 - M2 - M3 - M4 |
 | **Los Técnicos** | <https://github.com/cami2722s-sys/Modulo_1> | Camila, Maite Julieta, Ignacio Coronado ,  Franca Bielsa , Rocío Alarcón| M1 - M2 - M3 -M4| 
 | **Los $\pi$** | <https://github.com/Emiliano-Ochoa/Entrega-Modulo1> | Tiago Friscolanti, Santiago Jara, Gerardo , Facundo Romero, Emiliano Ochoa | M1 - M2 - M3 - M4
