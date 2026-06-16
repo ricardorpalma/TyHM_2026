@@ -23,7 +23,7 @@ Mediación de Materiales TyHM 2026
 | **Dybala a Boca** | <https://github.com/Santiago-Pena2003/Entrega-Modulo-1> | Santiago Joaquín Peña, Sebastian Dimarco ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  | M1 - M2 - M3 - M4 | 
 | **Error 404** |  <https://github.com/ezequiel-choqueaguirre/Error-404> | Lisandro Ezequiel Martin , Tadeo Gabriel, Josefina Perez, Blanco Nicolás, Marco Boero  | M1 - M2 - M3 -M4  |
 | **Gorditos Siuu** | <https://github.com/ignaciojuann07/Grupo-tecnicas-> | 	Juan González Ignacio ,	Pilar Zuñiga , Euillades	Santiago , ~~Mecatronica Huenchuguala	Joaquin~~ ,.	Celeste Herzóg | M1 - M2 - M3 - M4 | 
-| **JIGSA** | <https://github.com/segea86/TyHM_Modulo1> |.	Marcia Benegas ,.	Gonzalez Gonzalo, Egea	Sebastián, -	Simonovich Jael Gisel ,  	Juan Ignacio Ristagno   | M1 - M2 - M3 - M4 |
+| **JIGSA** | <https://github.com/segea86/TyHM_Modulo1> |.	<mark>Marcia Benegas</mark> ,.	Gonzalez Gonzalo, <mark>Egea	Sebastián</mark>, -	Simonovich Jael Gisel ,  <mark>	Juan Ignacio Ristagno </mark>   | M1 - M2 - M3 - M4 |
 | **Joulie Faraday** | <https://github.com/emanuel-gomez-rastrilla/entregamodulo_1>  | Mauricio Jesús Mansur, Emanuel Gomez, Mattia Malnis  Valentino Giampietri,  Ana Clara Godoy | M1 - M2 - M3 - M4 |
 | **KPI Rojos** | <http://github.com/fdelpopolos/Entrega> | Villalba	Ezequiel Del Popolo	Francisco Smovir	Pablo .	Matias Salinas ,Nicotra Amparo  | M1 - M2 - M3 - M4 |
 | **Las valientes**  | <https://github.com/Juananorton/Entrega>  | Paulina Maselli -	Rosario .	Angelica Collazo  	Juana .	Angelina, Clarisse Raingeard | M1 - M2 - M3 - M4 |
